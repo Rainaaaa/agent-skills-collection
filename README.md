@@ -112,8 +112,8 @@ A single container image covers all three stages (Python 3.12 + Playwright +
 Chromium pre-installed):
 
 ```bash
-git clone git@github.com:Rainaaaa/AgentSkill-OSS.git
-cd AgentSkill-OSS
+git clone git@github.com:Rainaaaa/agent-skills-collection.git
+cd agent-skills-collection
 docker build -t agentskills-collection .
 
 # Stage 1 — SkillsMP labels
