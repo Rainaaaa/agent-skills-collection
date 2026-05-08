@@ -2,7 +2,7 @@
 #
 # AgentSkills-collection — single image covering all three pipeline stages.
 #
-#   Stage 1: skills_labels_collection (needs Playwright + Chromium)
+#   Stage 1: metadata_collection (needs Playwright + Chromium)
 #   Stage 2: skills_repos/fetch_metadata.py
 #   Stage 3: skills_repos/download_repos.py
 #
@@ -11,7 +11,7 @@
 #
 # Run a stage (mount your output dir so artifacts survive container restarts):
 #   docker run --rm -v $(pwd)/output:/app/output \
-#       agentskills-collection skills_labels_collection/crawl_lists.py --workers 4
+#       agentskills-collection metadata_collection/crawl_lists.py --workers 4
 #
 # Or with docker-compose (see docker-compose.yml):
 #   docker compose run --rm labels   crawl_lists.py --workers 4
@@ -38,14 +38,14 @@ COPY requirements.txt /app/requirements.txt
 RUN pip install --no-cache-dir -r /app/requirements.txt
 
 # Pipeline source.
-COPY skills_labels_collection /app/skills_labels_collection
+COPY metadata_collection /app/metadata_collection
 COPY skills_repos             /app/skills_repos
 COPY README.md                /app/README.md
 
 # Entry point dispatches to whichever stage script you ask for.
 # Usage:
 #   docker run --rm agentskills-collection skills_repos/fetch_metadata.py --help
-#   docker run --rm agentskills-collection skills_labels_collection/crawl_lists.py --help
+#   docker run --rm agentskills-collection metadata_collection/crawl_lists.py --help
 COPY docker-entrypoint.sh /usr/local/bin/docker-entrypoint.sh
 RUN chmod +x /usr/local/bin/docker-entrypoint.sh
 

@@ -8,8 +8,8 @@
 #SBATCH -A r00954
 #SBATCH --mail-type=END,FAIL
 #SBATCH --mail-user=cz1@iu.edu
-#SBATCH --output=/N/slate/cz1/GitHub/AgentSkills-OSS/skills_labels_collection/log/%x_%j.log
-#SBATCH --error=/N/slate/cz1/GitHub/AgentSkills-OSS/skills_labels_collection/log/%x_%j.err
+#SBATCH --output=/N/slate/cz1/GitHub/AgentSkills-OSS/metadata_collection/log/%x_%j.log
+#SBATCH --error=/N/slate/cz1/GitHub/AgentSkills-OSS/metadata_collection/log/%x_%j.err
 
 # Periodic-run pipeline (run weekly / monthly to grow coverage):
 #
@@ -41,7 +41,7 @@
 
 set -uo pipefail
 
-PROJECT_ROOT="/N/slate/cz1/GitHub/AgentSkills-OSS/skills_labels_collection"
+PROJECT_ROOT="/N/slate/cz1/GitHub/AgentSkills-OSS/metadata_collection"
 
 # Bypass `conda activate` (which can hang for minutes when /N/slate Lustre is
 # degraded) and just point PATH at the env's bin/ directly. Equivalent to

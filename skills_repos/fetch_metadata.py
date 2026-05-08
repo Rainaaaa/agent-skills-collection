@@ -23,7 +23,7 @@ token is usable.
 
 Inputs are loosely coupled — pick one:
 
-  --repo_map   /path/to/repo_map.json     (from skills_labels_collection/output)
+  --repo_map   /path/to/repo_map.json     (from metadata_collection/output)
   --repos_file /path/to/repos.txt         (one GitHub URL per line)
   --metadata_jsonl /path/to/skillsmp_metadata.jsonl
                                           (uses each row's `githubUrl`)
@@ -402,7 +402,7 @@ def parse_args() -> argparse.Namespace:
 
     # Inputs (any combination — unique repos are unioned)
     p.add_argument("--repo_map",       type=str, default=None,
-                   help="repo_map.json from skills_labels_collection/merge_metadata.py.")
+                   help="repo_map.json from metadata_collection/merge_metadata.py.")
     p.add_argument("--repos_file",     type=str, default=None,
                    help="Plain text file with one GitHub URL per line.")
     p.add_argument("--metadata_jsonl", type=str, default=None,

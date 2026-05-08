@@ -1,5 +1,5 @@
 # Pinned to the major versions tested in the AgentSkillsOSS conda env.
-# Stage 1 (skills_labels_collection) needs Playwright + Chromium.
+# Stage 1 (metadata_collection) needs Playwright + Chromium.
 # Stages 2 + 3 (skills_repos) only need the standard library + requests.
 # pandas + openpyxl are used by merge_metadata.py for SOC hierarchy joins.
 

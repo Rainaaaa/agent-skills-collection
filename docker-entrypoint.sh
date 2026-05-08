@@ -2,7 +2,7 @@
 # Dispatch to a pipeline script.
 #
 #   docker run --rm agentskills-collection \
-#       skills_labels_collection/crawl_lists.py --workers 4
+#       metadata_collection/crawl_lists.py --workers 4
 #
 # The first arg is interpreted as a path relative to /app. If it ends in
 # `.py`, we hand it to python; otherwise we exec it (so you can run plain
@@ -19,9 +19,9 @@ case "$1" in
 AgentSkills-collection container
 
 Stage 1 — SkillsMP labels:
-    skills_labels_collection/crawl_lists.py     [--workers N]
-    skills_labels_collection/crawl_details.py   [--workers N]
-    skills_labels_collection/merge_metadata.py
+    metadata_collection/crawl_lists.py     [--workers N]
+    metadata_collection/crawl_details.py   [--workers N]
+    metadata_collection/merge_metadata.py
 
 Stage 2 — GitHub metadata:
     skills_repos/fetch_metadata.py              --repo_map <path>

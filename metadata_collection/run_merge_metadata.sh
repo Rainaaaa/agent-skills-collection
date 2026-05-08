@@ -8,8 +8,8 @@
 #SBATCH -A r00954
 #SBATCH --mail-type=END,FAIL
 #SBATCH --mail-user=cz1@iu.edu
-#SBATCH --output=/N/slate/cz1/GitHub/AgentSkills-OSS/skills_labels_collection/log/%x_%j.log
-#SBATCH --error=/N/slate/cz1/GitHub/AgentSkills-OSS/skills_labels_collection/log/%x_%j.err
+#SBATCH --output=/N/slate/cz1/GitHub/AgentSkills-OSS/metadata_collection/log/%x_%j.log
+#SBATCH --error=/N/slate/cz1/GitHub/AgentSkills-OSS/metadata_collection/log/%x_%j.err
 
 set -euo pipefail
 
@@ -19,7 +19,7 @@ set -euo pipefail
 # Runs fast (minutes). Can be launched directly (no sbatch) if preferred:
 #   python merge_metadata.py
 
-PROJECT_ROOT="/N/slate/cz1/GitHub/AgentSkills-OSS/skills_labels_collection"
+PROJECT_ROOT="/N/slate/cz1/GitHub/AgentSkills-OSS/metadata_collection"
 
 # Bypass `conda activate` (Lustre-resilient).
 ENV_PREFIX="/N/slate/cz1/conda/envs/AgentSkillsOSS"

@@ -32,7 +32,7 @@
 set -uo pipefail
 
 PROJECT_ROOT="/N/slate/cz1/GitHub/AgentSkills-OSS/AgentSkills-collection/skills_repos"
-LABELS_OUTPUT="/N/slate/cz1/GitHub/AgentSkills-OSS/AgentSkills-collection/skills_labels_collection/output"
+LABELS_OUTPUT="/N/slate/cz1/GitHub/AgentSkills-OSS/AgentSkills-collection/metadata_collection/output"
 
 ENV_PREFIX="/N/slate/cz1/conda/envs/AgentSkillsOSS"
 export CONDA_PREFIX="${ENV_PREFIX}"

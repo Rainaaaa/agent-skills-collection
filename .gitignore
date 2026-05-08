@@ -44,11 +44,11 @@ slurm-*.out
 venv/
 .env
 
-# Deprecated API-only crawler — superseded by skills_labels_collection/.
+# Deprecated API-only crawler — superseded by metadata_collection/.
 # Local copy stays on disk for archival; not part of the published pipeline.
 skills_collection/
 
-# Smoke-test scratch files inside skills_labels_collection/
-skills_labels_collection/pw_minimal.py
-skills_labels_collection/_pw_node_probe.py
-skills_labels_collection/test.py
+# Smoke-test scratch files inside metadata_collection/
+metadata_collection/pw_minimal.py
+metadata_collection/_pw_node_probe.py
+metadata_collection/test.py

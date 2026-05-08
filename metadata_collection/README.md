@@ -1,4 +1,4 @@
-# skills_labels_collection
+# metadata_collection
 
 A DOM-based crawler for [SkillsMP](https://skillsmp.com) that walks **list
 pages** and **detail pages** to collect skills *with* their category and
@@ -38,7 +38,7 @@ in parallel) and resumable checkpoints.
 ## Contents
 
 ```
-skills_labels_collection/
+metadata_collection/
 ├── crawler_jobs.json            # Selectors + job-space config (L1 + L2)
 ├── runtime_config.json          # Paths, browser, retry settings, worker defaults
 │
@@ -215,7 +215,7 @@ from scratch.
 ### Smoke tests (local / debug allocation)
 
 ```bash
-cd /N/slate/cz1/GitHub/AgentSkills-OSS/skills_labels_collection
+cd /N/slate/cz1/GitHub/AgentSkills-OSS/metadata_collection
 python pw_minimal.py                                        # raw Playwright smoke
 python crawl_lists.py  --source category --max_jobs 4       # L1 smoke
 python crawl_details.py --max_jobs 10                       # L2 smoke (needs L1 output)
@@ -314,9 +314,9 @@ After the merge, swap those three paths to this module's `output/`:
 - "repo_map":          ".../skills_collection/output/repo_map.json",
 - "dedup_index":       ".../skills_collection/output/dedup_index.json",
 - "skillsmp_metadata": ".../skills_collection/output/skillsmp_metadata.jsonl",
-+ "repo_map":          ".../skills_labels_collection/output/repo_map.json",
-+ "dedup_index":       ".../skills_labels_collection/output/dedup_index.json",
-+ "skillsmp_metadata": ".../skills_labels_collection/output/skillsmp_metadata.jsonl",
++ "repo_map":          ".../metadata_collection/output/repo_map.json",
++ "dedup_index":       ".../metadata_collection/output/dedup_index.json",
++ "skillsmp_metadata": ".../metadata_collection/output/skillsmp_metadata.jsonl",
 ```
 
 The shapes are the same so `download_skill_packages.py` needs no changes.

@@ -31,7 +31,7 @@ Inputs (any combination — unique `(owner, repo)` pairs are unioned):
 
 | Flag                  | Source                                                     |
 | --------------------- | ---------------------------------------------------------- |
-| `--repo_map`          | `repo_map.json` from `skills_labels_collection/`           |
+| `--repo_map`          | `repo_map.json` from `metadata_collection/`           |
 | `--repos_file`        | plain text, one GitHub URL per line                        |
 | `--metadata_jsonl`    | jsonl with a `githubUrl` (or `repo_url`) on each row       |
 
@@ -51,12 +51,12 @@ Use this only for tiny smoke tests.
 ```bash
 # Smoke test: 100 repos, no license body
 python fetch_metadata.py \
-  --repo_map ../skills_labels_collection/output/repo_map.json \
+  --repo_map ../metadata_collection/output/repo_map.json \
   --max_repos 100
 
 # Production: include SPDX license body for every repo
 python fetch_metadata.py \
-  --repo_map ../skills_labels_collection/output/repo_map.json \
+  --repo_map ../metadata_collection/output/repo_map.json \
   --with_license_text
 
 # Backfill from a custom URL list (e.g. user-curated additions)
@@ -102,15 +102,15 @@ downstream tools see the filter reason rather than a missing skill.
 ```bash
 # Permissive licenses only
 python download_repos.py \
-  --repo_map     ../skills_labels_collection/output/repo_map.json \
-  --skills_dedup ../skills_labels_collection/output/dedup_index.json \
+  --repo_map     ../metadata_collection/output/repo_map.json \
+  --skills_dedup ../metadata_collection/output/dedup_index.json \
   --require_license \
   --license_whitelist mit,apache-2.0,bsd-3-clause,bsd-2-clause,isc,mpl-2.0 \
   --skip_archived
 
 # Smoke: 20 repos, no filters
 python download_repos.py \
-  --repo_map ../skills_labels_collection/output/repo_map.json \
+  --repo_map ../metadata_collection/output/repo_map.json \
   --max_repos 20
 ```
 
@@ -179,7 +179,7 @@ new corpus (e.g. internal index, hand-curated list, alternate marketplace),
 either:
 
 1. Produce a `repo_map.json` in the same shape as
-   `skills_labels_collection/output/repo_map.json` and pass it via
+   `metadata_collection/output/repo_map.json` and pass it via
    `--repo_map`, or
 2. Drop a plain text file of GitHub URLs and pass `--repos_file path.txt`.
 

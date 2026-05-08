@@ -22,19 +22,19 @@ services:
   # Stage 1 — SkillsMP list-page sweep.
   labels-l1:
     <<: *base
-    command: ["skills_labels_collection/crawl_lists.py",
+    command: ["metadata_collection/crawl_lists.py",
               "--output_dir", "/app/output/labels"]
 
   # Stage 1 — SkillsMP detail-page sweep.
   labels-l2:
     <<: *base
-    command: ["skills_labels_collection/crawl_details.py",
+    command: ["metadata_collection/crawl_details.py",
               "--output_dir", "/app/output/labels"]
 
   # Stage 1 — merge L1 + L2 + SOC into training-ready files.
   merge:
     <<: *base
-    command: ["skills_labels_collection/merge_metadata.py",
+    command: ["metadata_collection/merge_metadata.py",
               "--output_dir", "/app/output/labels"]
 
   # Stage 2 — GitHub metadata + license.

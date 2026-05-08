@@ -27,9 +27,9 @@ cd "$ROOT"
 [ -d skills_collection ] && run rm -rf skills_collection
 
 # 2) Crawled output directories — large, reproducible from the scripts
-for d in skills_labels_collection/output skills_repos/output \
-         skills_labels_collection/log    skills_repos/log    \
-         skills_labels_collection/logs   skills_repos/logs; do
+for d in metadata_collection/output skills_repos/output \
+         metadata_collection/log    skills_repos/log    \
+         metadata_collection/logs   skills_repos/logs; do
   [ -e "$d" ] && run rm -rf "$d"
 done
 
@@ -43,12 +43,12 @@ find . -name '_backup_v1' -prune -exec rm -rf {} + 2>/dev/null || true
 find . -name 'Untitled-*.ipynb' -delete 2>/dev/null || true
 
 # 4) Smoke-test scratch files
-rm -f skills_labels_collection/pw_minimal.py     2>/dev/null || true
-rm -f skills_labels_collection/_pw_node_probe.py 2>/dev/null || true
-rm -f skills_labels_collection/test.py           2>/dev/null || true
+rm -f metadata_collection/pw_minimal.py     2>/dev/null || true
+rm -f metadata_collection/_pw_node_probe.py 2>/dev/null || true
+rm -f metadata_collection/test.py           2>/dev/null || true
 
 # 5) Real secrets (real tokens.json is gitignored anyway, but wipe to be safe)
-[ -f skills_labels_collection/tokens.json ] && run rm -f skills_labels_collection/tokens.json
+[ -f metadata_collection/tokens.json ] && run rm -f metadata_collection/tokens.json
 [ -f skills_repos/tokens.json ]             && run rm -f skills_repos/tokens.json
 
 echo "[done] cleanup complete."

@@ -12,7 +12,7 @@
 #SBATCH --error=/N/slate/cz1/GitHub/AgentSkills-OSS/AgentSkills-collection/skills_repos/log/%x_%j.err
 
 # Stage 2 — fetch GitHub repo metadata + license for the repos discovered by
-# Stage 1 (skills_labels_collection/output/repo_map.json).
+# Stage 1 (metadata_collection/output/repo_map.json).
 #
 # Variables (export via sbatch --export=…):
 #   REPO_MAP            override default repo_map.json path
@@ -28,7 +28,7 @@
 set -uo pipefail
 
 PROJECT_ROOT="/N/slate/cz1/GitHub/AgentSkills-OSS/AgentSkills-collection/skills_repos"
-LABELS_OUTPUT="/N/slate/cz1/GitHub/AgentSkills-OSS/AgentSkills-collection/skills_labels_collection/output"
+LABELS_OUTPUT="/N/slate/cz1/GitHub/AgentSkills-OSS/AgentSkills-collection/metadata_collection/output"
 
 ENV_PREFIX="/N/slate/cz1/conda/envs/AgentSkillsOSS"
 export CONDA_PREFIX="${ENV_PREFIX}"

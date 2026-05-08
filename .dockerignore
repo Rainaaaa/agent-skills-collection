@@ -34,5 +34,5 @@
 # Docs that aren't needed inside the container
 *.md
 !README.md
-!skills_labels_collection/README.md
+!metadata_collection/README.md
 !skills_repos/README.md

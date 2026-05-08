@@ -470,9 +470,9 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--output_dir",     type=str, default=None)
 
     p.add_argument("--repo_map",       type=str, required=True,
-                   help="repo_map.json from skills_labels_collection/merge_metadata.py.")
+                   help="repo_map.json from metadata_collection/merge_metadata.py.")
     p.add_argument("--skills_dedup",   type=str, default=None,
-                   help="dedup_index.json from skills_labels_collection (for per-package manifest).")
+                   help="dedup_index.json from metadata_collection (for per-package manifest).")
     p.add_argument("--metadata",       type=str, default=None,
                    help="github_metadata_index.json from fetch_metadata.py "
                         "(default: runtime_config.fetch_metadata.index_file).")

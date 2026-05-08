@@ -7,7 +7,7 @@ GitHub repositories.
 
 ```
                  ┌──────────────────────────────────────┐
-Stage 1          │  skills_labels_collection/           │
+Stage 1          │  metadata_collection/           │
 SkillsMP         │  Playwright crawl of L1 list pages   │
 crawl            │  + L2 detail pages → labels + meta   │
                  └────────────────┬─────────────────────┘
@@ -42,7 +42,7 @@ AgentSkills-collection/
 ├── skills_collection/                 # ⚠ DEPRECATED — API-only legacy crawler
 │   └── DEPRECATED.md
 │
-├── skills_labels_collection/          # Stage 1 — SkillsMP crawl (labels + meta)
+├── metadata_collection/          # Stage 1 — SkillsMP crawl (labels + meta)
 │   ├── crawl_lists.py                 # L1: list pages → cards + label sets
 │   ├── crawl_details.py               # L2: detail pages → SKILL.md + JSON-LD
 │   ├── merge_metadata.py              # join L1 + L2 + SOC hierarchy
@@ -77,25 +77,25 @@ SkillsMP, or skip Stage 3 entirely and feed the metadata into a scanner.
 ## End-to-end
 
 ```bash
-# Stage 1 — full SkillsMP sweep (or incremental — see skills_labels_collection/README.md)
-cd skills_labels_collection
+# Stage 1 — full SkillsMP sweep (or incremental — see metadata_collection/README.md)
+cd metadata_collection
 sbatch run_periodic.sh
 python merge_metadata.py    # produces repo_map.json + skillsmp_metadata.jsonl
 
 # Stage 2 — fetch GitHub metadata + license
 cd ../skills_repos
 python fetch_metadata.py \
-    --repo_map ../skills_labels_collection/output/repo_map.json
+    --repo_map ../metadata_collection/output/repo_map.json
 
 # Stage 3 — download archives that pass license + status filters
 python download_repos.py \
     --metadata output/github_metadata.jsonl \
-    --repo_map ../skills_labels_collection/output/repo_map.json
+    --repo_map ../metadata_collection/output/repo_map.json
 ```
 
 ## Stage details
 
-- **Stage 1** — see [`skills_labels_collection/README.md`](skills_labels_collection/README.md).
+- **Stage 1** — see [`metadata_collection/README.md`](metadata_collection/README.md).
 - **Stages 2 + 3** — see [`skills_repos/README.md`](skills_repos/README.md).
 
 ## Running
