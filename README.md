@@ -102,10 +102,18 @@ python download_repos.py \
 
 ### Option A — Docker (recommended for portability)
 
+> No prebuilt image is published — only the build files (`Dockerfile`,
+> `docker-compose.yml`, `docker-entrypoint.sh`, `.dockerignore`) are in the
+> repo. Anyone who clones it can build locally with one command. This keeps
+> the GitHub repo small and lets users pin their own base image / Python
+> version if needed.
+
 A single container image covers all three stages (Python 3.12 + Playwright +
 Chromium pre-installed):
 
 ```bash
+git clone git@github.com:Rainaaaa/AgentSkill-OSS.git
+cd AgentSkill-OSS
 docker build -t agentskills-collection .
 
 # Stage 1 — SkillsMP labels
