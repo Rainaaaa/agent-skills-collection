@@ -16,7 +16,7 @@ fi
 case "$1" in
   --help|-h)
     cat <<'EOF'
-AgentSkills-collection container
+agent-skills-collection container
 
 Stage 1 — SkillsMP labels:
     metadata_collection/crawl_lists.py     [--workers N]

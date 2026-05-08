@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1.7
 #
-# AgentSkills-collection — single image covering all three pipeline stages.
+# agent-skills-collection — single image covering all three pipeline stages.
 #
 #   Stage 1: metadata_collection (needs Playwright + Chromium)
 #   Stage 2: skills_repos/fetch_metadata.py

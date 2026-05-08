@@ -1,4 +1,4 @@
-# AgentSkills-collection
+# agent-skills-collection
 
 End-to-end crawler for the AgentSkills-OSS dataset. Three independent stages
 turn the live [SkillsMP](https://skillsmp.com) site into a deduplicated,
@@ -36,7 +36,7 @@ alternate input source independently.
 ## Layout
 
 ```
-AgentSkills-collection/
+agent-skills-collection/
 ├── README.md                          # this file
 │
 ├── skills_collection/                 # ⚠ DEPRECATED — API-only legacy crawler

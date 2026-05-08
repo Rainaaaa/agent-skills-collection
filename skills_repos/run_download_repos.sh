@@ -8,8 +8,8 @@
 #SBATCH -A r00954
 #SBATCH --mail-type=END,FAIL
 #SBATCH --mail-user=cz1@iu.edu
-#SBATCH --output=/N/slate/cz1/GitHub/AgentSkills-OSS/AgentSkills-collection/skills_repos/log/%x_%j.log
-#SBATCH --error=/N/slate/cz1/GitHub/AgentSkills-OSS/AgentSkills-collection/skills_repos/log/%x_%j.err
+#SBATCH --output=/N/slate/cz1/GitHub/AgentSkills-OSS/agent-skills-collection/skills_repos/log/%x_%j.log
+#SBATCH --error=/N/slate/cz1/GitHub/AgentSkills-OSS/agent-skills-collection/skills_repos/log/%x_%j.err
 
 # Stage 3 — download GitHub archives and build per-skill package views.
 # Reads metadata produced by Stage 2 to pick the canonical default branch
@@ -31,8 +31,8 @@
 
 set -uo pipefail
 
-PROJECT_ROOT="/N/slate/cz1/GitHub/AgentSkills-OSS/AgentSkills-collection/skills_repos"
-LABELS_OUTPUT="/N/slate/cz1/GitHub/AgentSkills-OSS/AgentSkills-collection/metadata_collection/output"
+PROJECT_ROOT="/N/slate/cz1/GitHub/AgentSkills-OSS/agent-skills-collection/skills_repos"
+LABELS_OUTPUT="/N/slate/cz1/GitHub/AgentSkills-OSS/agent-skills-collection/metadata_collection/output"
 
 ENV_PREFIX="/N/slate/cz1/conda/envs/AgentSkillsOSS"
 export CONDA_PREFIX="${ENV_PREFIX}"
