@@ -1,0 +1,89 @@
+{
+  "blockchain": [
+    "defi",
+    "smart-contracts",
+    "web3-tools"
+  ],
+  "business": [
+    "business-apps",
+    "ecommerce",
+    "finance-investment",
+    "health-fitness",
+    "payment",
+    "project-management",
+    "real-estate-legal",
+    "sales-marketing"
+  ],
+  "content-media": [
+    "content-creation",
+    "design",
+    "documents",
+    "media"
+  ],
+  "data-ai": [
+    "data-analysis",
+    "data-engineering",
+    "llm-ai",
+    "machine-learning"
+  ],
+  "databases": [
+    "database-tools",
+    "nosql-databases",
+    "sql-databases"
+  ],
+  "development": [
+    "architecture-patterns",
+    "backend",
+    "cms-platforms",
+    "ecommerce-development",
+    "framework-internals",
+    "frontend",
+    "full-stack",
+    "gaming",
+    "mobile",
+    "package-distribution",
+    "scripting"
+  ],
+  "devops": [
+    "cicd",
+    "cloud",
+    "containers",
+    "git-workflows",
+    "monitoring"
+  ],
+  "documentation": [
+    "education",
+    "knowledge-base",
+    "technical-docs"
+  ],
+  "lifestyle": [
+    "arts-crafts",
+    "culinary-arts",
+    "divination-mysticism",
+    "literature-writing",
+    "philosophy-ethics",
+    "wellness-health"
+  ],
+  "research": [
+    "academic",
+    "astronomy-physics",
+    "bioinformatics",
+    "computational-chemistry",
+    "lab-tools",
+    "scientific-computing"
+  ],
+  "testing-security": [
+    "code-quality",
+    "security",
+    "testing"
+  ],
+  "tools": [
+    "automation-tools",
+    "cli-tools",
+    "debugging",
+    "domain-utilities",
+    "ide-plugins",
+    "productivity-tools",
+    "system_admin"
+  ]
+}

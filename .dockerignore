@@ -1,0 +1,38 @@
+# Build context exclusions — keep the image lean.
+
+# Crawled artifacts and logs
+**/output
+**/log
+**/logs
+**/checkpoints
+
+# Python caches
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/.pytest_cache
+**/.ipynb_checkpoints
+
+# Editor / OS
+.git
+.gitignore
+.vscode
+.idea
+.DS_Store
+
+# Backups + scratch
+**/*.bak
+**/*.tmp
+**/_backup_v1
+**/Untitled-*.ipynb
+**/test.py
+
+# Secrets — never bake into the image
+**/tokens.json
+!**/tokens.json.example
+
+# Docs that aren't needed inside the container
+*.md
+!README.md
+!skills_labels_collection/README.md
+!skills_repos/README.md

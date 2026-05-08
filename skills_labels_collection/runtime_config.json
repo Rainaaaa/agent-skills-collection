@@ -1,0 +1,36 @@
+{
+  "input_dir": "./input",
+  "output_dir": "./output",
+  "log_dir": "./output/logs",
+  "checkpoint_dir": "./output/checkpoints",
+  "level1": {
+    "cards_file": "./output/level1_cards.jsonl",
+    "dedup_file": "./output/level1_dedup.json",
+    "request_log_file": "./output/level1_request_log.jsonl",
+    "checkpoint_file": "./output/checkpoints/level1_checkpoint.json"
+  },
+  "level2": {
+    "details_file": "./output/level2_details.jsonl",
+    "dedup_file": "./output/level2_dedup.json",
+    "request_log_file": "./output/level2_request_log.jsonl",
+    "checkpoint_file": "./output/checkpoints/level2_checkpoint.json"
+  },
+  "merged": {
+    "metadata_file": "./output/merged_metadata.jsonl",
+    "repo_map_file": "./output/repo_map.json",
+    "dedup_index_file": "./output/dedup_index.json"
+  },
+  "browser": {
+    "engine": "chromium",
+    "headless": true,
+    "navigation_timeout_ms": 45000,
+    "default_timeout_ms": 15000,
+    "viewport": {"width": 1440, "height": 900},
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 agent-skills-labels-crawler/1.0"
+  },
+  "request_settings": {
+    "sleep_between_jobs_s": 2.5,
+    "max_retries_per_job": 3,
+    "retry_backoff_s": 4.0
+  }
+}

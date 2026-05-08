@@ -1,0 +1,66 @@
+{
+  "version": "1.0",
+  "platform": "skillsmp",
+  "notes": "List-page (Level 1) entry points. Only leaf labels are crawled — parents are derived at merge time from category.json / soc_lvl_*.csv.",
+  "base_url": "https://skillsmp.com",
+  "sort_modes": ["stars", "recent"],
+  "sources": {
+    "occupation": {
+      "enabled": true,
+      "url_template": "{base_url}/occupations/{slug}",
+      "label_file": "./input/soc_lvl_3.csv",
+      "label_column": "soc_lvl_3"
+    },
+    "category": {
+      "enabled": true,
+      "url_template": "{base_url}/categories/{slug}",
+      "label_file": "./input/category.json",
+      "label_depth": "leaf"
+    }
+  },
+  "page_behavior": {
+    "mode": "infinite_scroll_or_progressive_load",
+    "scroll_pause_ms": 1200,
+    "max_no_progress_scrolls": 15,
+    "max_scrolls_per_page": 10000,
+    "eof_marker": {
+      "match_text": "EOF — all skills loaded",
+      "notes": "Best-effort; live site may not render this. The no-progress stall (max_no_progress_scrolls) is the authoritative bottom-of-page signal. Stays patient for 15 × scroll_pause_ms ≈ 18s of no-new-cards before stopping."
+    }
+  },
+  "selectors": {
+    "card_anchor": "a[href^=\"/skills/\"]",
+    "skeleton_exclude": "[data-slot=\"skeleton\"]",
+    "fields_relative_to_anchor": {
+      "skill_name": {"selector": "span[title]", "attr": "title"},
+      "repository": {"selector": "span.text-green-600, span.text-green-400, span[class*=\"text-green\"]", "attr": null, "normalize": "trim_quotes"},
+      "description": {"selector": "div[class*=\"leading-relaxed\"]", "attr": null},
+      "stars": {"selector": "svg.lucide-star + span", "attr": null},
+      "updated_at": {"selector": "div.mt-auto span.text-muted-foreground", "attr": null}
+    },
+    "sort_buttons": {
+      "stars": "button[aria-label=\"Sort by stars\"]",
+      "recent": "button[aria-label=\"Sort by recent\"]"
+    }
+  },
+  "level2": {
+    "notes": "Detail-page (Level 2) extraction. Selectors best-effort per Notion spec; verify against live DOM before large runs.",
+    "page_behavior": {
+      "wait_for_selector": "h1",
+      "post_load_wait_ms": 1500,
+      "max_hydration_waits": 3
+    },
+    "selectors": {
+      "skill_name": {"selector": "h1", "attr": null},
+      "description_primary": {"selector": "p.text-sm.text-muted-foreground.mt-2, p[class*=\"text-muted-foreground\"]", "attr": null},
+      "stars": {"selector": "span.text-yellow-500 + span, svg.lucide-star + span", "attr": null},
+      "forks": {"selector": "span.text-blue-500 + span, svg.lucide-git-fork + span", "attr": null},
+      "updated_at": {"selector": "span.text-green-500 + span, svg.lucide-calendar + span", "attr": null},
+      "canonical_url": {"selector": "link[rel=\"canonical\"]", "attr": "href"},
+      "run_in_manus_link": {"selector": "a[href*=\"manus.im/import-skills\"], a[href*=\"manus.im/import\"]", "attr": "href"},
+      "repository_link": {"selector": "a[href*=\"github.com/\"]", "attr": "href"},
+      "skill_md_container": {"selector": "div.p-6.sm\\:p-8, article.prose, div[class*=\"prose\"]", "attr": null},
+      "jsonld": {"selector": "script[type=\"application/ld+json\"]", "attr": null}
+    }
+  }
+}

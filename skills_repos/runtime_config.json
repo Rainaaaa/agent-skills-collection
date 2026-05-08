@@ -1,0 +1,28 @@
+{
+  "output_dir": "./output",
+  "log_dir": "./output/logs",
+  "checkpoint_dir": "./output/checkpoints",
+
+  "fetch_metadata": {
+    "metadata_file":     "./output/github_metadata.jsonl",
+    "index_file":        "./output/github_metadata_index.json",
+    "request_log_file":  "./output/fetch_metadata_request_log.jsonl",
+    "checkpoint_file":   "./output/checkpoints/fetch_metadata_checkpoint.json"
+  },
+
+  "download_repos": {
+    "raw_repos_root":     "/N/project/AdversarialModeling/agent_skills/raw_repos",
+    "packages_root":      "/N/project/AdversarialModeling/agent_skills/packages",
+    "repo_log_file":      "./output/repo_download_log.jsonl",
+    "package_index_file": "./output/package_index.jsonl",
+    "repo_status_csv":    "./output/repo_status.csv",
+    "skill_status_csv":   "./output/skill_status.csv",
+    "checkpoint_file":    "./output/checkpoints/download_repos_checkpoint.json",
+    "workers": 16
+  },
+
+  "request_settings": {
+    "timeout_seconds": 30,
+    "sleep_between_requests_s": 0.4
+  }
+}

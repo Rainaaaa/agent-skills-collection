@@ -1,0 +1,459 @@
+SOC Broad Occupation,Title,soc_lvl_2
+11-1010,Chief Executives,chief-executives-111010
+11-1020,General and Operations Managers,general-and-operations-managers-111020
+11-1030,Legislators,legislators-111030
+11-2010,Advertising and Promotions Managers,advertising-and-promotions-managers-112010
+11-2020,Marketing Managers,marketing-managers-112020
+11-2030,Public Relations Managers,public-relations-managers-112030
+11-3010,Administrative Services Managers,administrative-services-managers-113010
+11-3020,Computer and Information Systems Managers,computer-and-information-systems-managers-113020
+11-3030,Investment Fund Managers,investment-fund-managers-113030
+11-3050,Industrial Production Managers,industrial-production-managers-113050
+11-3060,Purchasing Managers,purchasing-managers-113060
+11-3070,"Transportation, Storage, and Distribution Managers",transportation-storage-and-distribution-managers-113070
+11-3110,Compensation and Benefits Managers,compensation-and-benefits-managers-113110
+11-3120,Human Resources Managers,human-resources-managers-113120
+11-3130,Training and Development Managers,training-and-development-managers-113130
+11-9010,"Farmers, Ranchers, and Other Agricultural Managers",farmers-ranchers-and-other-agricultural-managers-119010
+11-9020,Construction Managers,construction-managers-119020
+11-9030,"Education and Childcare Administrators, Preschool and Daycare",education-and-childcare-administrators-preschool-and-daycare-119030
+11-9040,Architectural and Engineering Managers,architectural-and-engineering-managers-119040
+11-9050,Food Service Managers,food-service-managers-119050
+11-9070,Gambling Managers,gambling-managers-119070
+11-9080,Lodging Managers,lodging-managers-119080
+11-9110,Medical and Health Services Managers,medical-and-health-services-managers-119110
+11-9120,Natural Sciences Managers,natural-sciences-managers-119120
+11-9130,Postmasters and Mail Superintendents,postmasters-and-mail-superintendents-119130
+11-9140,"Property, Real Estate, and Community Association Managers",property-real-estate-and-community-association-managers-119140
+11-9150,Social and Community Service Managers,social-and-community-service-managers-119150
+11-9160,Emergency Management Directors,emergency-management-directors-119160
+11-9170,Funeral Home Managers,funeral-home-managers-119170
+11-9190,"Managers, All Other",managers-all-other-119190
+13-1010,"Agents and Business Managers of Artists, Performers, and Athletes",agents-and-business-managers-of-artists-performers-and-athletes-131010
+13-1020,"Buyers and Purchasing Agents, Farm Products",buyers-and-purchasing-agents-farm-products-131020
+13-1030,"Claims Adjusters, Examiners, and Investigators",claims-adjusters-examiners-and-investigators-131030
+13-1040,Environmental Compliance Inspectors,environmental-compliance-inspectors-131040
+13-1050,Cost Estimators,cost-estimators-131050
+13-1070,Human Resources Specialists,human-resources-specialists-131070
+13-1080,Logisticians,logisticians-131080
+13-1110,Management Analysts,management-analysts-131110
+13-1120,"Meeting, Convention, and Event Planners",meeting-convention-and-event-planners-131120
+13-1130,Fundraisers,fundraisers-131130
+13-1140,"Compensation, Benefits, and Job Analysis Specialists",compensation-benefits-and-job-analysis-specialists-131140
+13-1150,Training and Development Specialists,training-and-development-specialists-131150
+13-1160,Market Research Analysts and Marketing Specialists,market-research-analysts-and-marketing-specialists-131160
+13-1190,"Business Operations Specialists, All Other",business-operations-specialists-all-other-131190
+13-2010,Accountants and Auditors,accountants-and-auditors-132010
+13-2020,Appraisers of Personal and Business Property,appraisers-of-personal-and-business-property-132020
+13-2030,Budget Analysts,budget-analysts-132030
+13-2040,Credit Analysts,credit-analysts-132040
+13-2050,Financial and Investment Analysts,financial-and-investment-analysts-132050
+13-2060,Financial Examiners,financial-examiners-132060
+13-2070,Credit Counselors,credit-counselors-132070
+13-2080,"Tax Examiners and Collectors, and Revenue Agents",tax-examiners-and-collectors-and-revenue-agents-132080
+13-2090,"Financial Specialists, All Other",financial-specialists-all-other-132090
+15-1210,Computer Systems Analysts,computer-systems-analysts-151210
+15-1220,Computer and Information Research Scientists,computer-and-information-research-scientists-151220
+15-1230,Computer Network Support Specialists,computer-network-support-specialists-151230
+15-1240,Computer Network Architects,computer-network-architects-151240
+15-1250,Computer Programmers,computer-programmers-151250
+15-1290,"Computer Occupations, All Other",computer-occupations-all-other-151290
+15-2010,Actuaries,actuaries-152010
+15-2020,Mathematicians,mathematicians-152020
+15-2030,Operations Research Analysts,operations-research-analysts-152030
+15-2040,Statisticians,statisticians-152040
+15-2050,Data Scientists,data-scientists-152050
+15-2090,"Mathematical Science Occupations, All Other",mathematical-science-occupations-all-other-152090
+17-1010,"Architects, Except Landscape and Naval",architects-except-landscape-and-naval-171010
+17-1020,Cartographers and Photogrammetrists,cartographers-and-photogrammetrists-171020
+17-2010,Aerospace Engineers,aerospace-engineers-172010
+17-2020,Agricultural Engineers,agricultural-engineers-172020
+17-2030,Bioengineers and Biomedical Engineers,bioengineers-and-biomedical-engineers-172030
+17-2040,Chemical Engineers,chemical-engineers-172040
+17-2050,Civil Engineers,civil-engineers-172050
+17-2060,Computer Hardware Engineers,computer-hardware-engineers-172060
+17-2070,Electrical Engineers,electrical-engineers-172070
+17-2080,Environmental Engineers,environmental-engineers-172080
+17-2110,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",health-and-safety-engineers-except-mining-safety-engineers-and-inspectors-172110
+17-2120,Marine Engineers and Naval Architects,marine-engineers-and-naval-architects-172120
+17-2130,Materials Engineers,materials-engineers-172130
+17-2140,Fuel Cell Engineers,fuel-cell-engineers-172140
+17-2150,"Mining and Geological Engineers, Including Mining Safety Engineers",mining-and-geological-engineers-including-mining-safety-engineers-172150
+17-2160,Nuclear Engineers,nuclear-engineers-172160
+17-2170,Petroleum Engineers,petroleum-engineers-172170
+17-2190,"Engineers, All Other",engineers-all-other-172190
+17-3010,Architectural and Civil Drafters,architectural-and-civil-drafters-173010
+17-3020,Aerospace Engineering and Operations Technologists and Technicians,aerospace-engineering-and-operations-technologists-and-technicians-173020
+17-3030,Surveying and Mapping Technicians,surveying-and-mapping-technicians-173030
+19-1010,Animal Scientists,animal-scientists-191010
+19-1020,Biochemists and Biophysicists,biochemists-and-biophysicists-191020
+19-1030,Conservation Scientists,conservation-scientists-191030
+19-1040,Epidemiologists,epidemiologists-191040
+19-1090,"Life Scientists, All Other",life-scientists-all-other-191090
+19-2010,Astronomers,astronomers-192010
+19-2020,Atmospheric and Space Scientists,atmospheric-and-space-scientists-192020
+19-2030,Chemists,chemists-192030
+19-2040,Climate Change Policy Analysts,climate-change-policy-analysts-192040
+19-2090,"Physical Scientists, All Other",physical-scientists-all-other-192090
+19-3010,Economists,economists-193010
+19-3020,Survey Researchers,survey-researchers-193020
+19-3030,Industrial-Organizational Psychologists,industrial-organizational-psychologists-193030
+19-3040,Sociologists,sociologists-193040
+19-3050,Urban and Regional Planners,urban-and-regional-planners-193050
+19-3090,Anthropologists and Archeologists,anthropologists-and-archeologists-193090
+19-4010,Precision Agriculture Technicians,precision-agriculture-technicians-194010
+19-4020,Biological Technicians,biological-technicians-194020
+19-4030,Chemical Technicians,chemical-technicians-194030
+19-4040,"Environmental Science and Protection Technicians, Including Health",environmental-science-and-protection-technicians-including-health-194040
+19-4050,Nuclear Technicians,nuclear-technicians-194050
+19-4060,Social Science Research Assistants,social-science-research-assistants-194060
+19-4070,Forest and Conservation Technicians,forest-and-conservation-technicians-194070
+19-4090,Forensic Science Technicians,forensic-science-technicians-194090
+19-5010,Occupational Health and Safety Specialists,occupational-health-and-safety-specialists-195010
+21-1010,"Educational, Guidance, and Career Counselors and Advisors",educational-guidance-and-career-counselors-and-advisors-211010
+21-1018,Substance Abuse and Behavioral Disorder Counselors,substance-abuse-and-behavioral-disorder-counselors-211018
+21-1020,"Child, Family, and School Social Workers",child-family-and-school-social-workers-211020
+21-1090,Health Education Specialists,health-education-specialists-211090
+21-2010,Clergy,clergy-212010
+21-2020,"Directors, Religious Activities and Education",directors-religious-activities-and-education-212020
+21-2090,"Religious Workers, All Other",religious-workers-all-other-212090
+23-1010,Lawyers,lawyers-231010
+23-1020,"Administrative Law Judges, Adjudicators, and Hearing Officers",administrative-law-judges-adjudicators-and-hearing-officers-231020
+23-2010,Paralegals and Legal Assistants,paralegals-and-legal-assistants-232010
+23-2090,"Title Examiners, Abstractors, and Searchers",title-examiners-abstractors-and-searchers-232090
+25-1010,"Business Teachers, Postsecondary",business-teachers-postsecondary-251010
+25-1020,"Computer Science Teachers, Postsecondary",computer-science-teachers-postsecondary-251020
+25-1030,"Architecture Teachers, Postsecondary",architecture-teachers-postsecondary-251030
+25-1040,"Agricultural Sciences Teachers, Postsecondary",agricultural-sciences-teachers-postsecondary-251040
+25-1050,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",atmospheric-earth-marine-and-space-sciences-teachers-postsecondary-251050
+25-1060,"Anthropology and Archeology Teachers, Postsecondary",anthropology-and-archeology-teachers-postsecondary-251060
+25-1070,"Health Specialties Teachers, Postsecondary",health-specialties-teachers-postsecondary-251070
+25-1080,"Education Teachers, Postsecondary",education-teachers-postsecondary-251080
+25-1110,"Criminal Justice and Law Enforcement Teachers, Postsecondary",criminal-justice-and-law-enforcement-teachers-postsecondary-251110
+25-1120,"Art, Drama, and Music Teachers, Postsecondary",art-drama-and-music-teachers-postsecondary-251120
+25-1190,"Family and Consumer Sciences Teachers, Postsecondary",family-and-consumer-sciences-teachers-postsecondary-251190
+25-2010,"Preschool Teachers, Except Special Education",preschool-teachers-except-special-education-252010
+25-2020,"Elementary School Teachers, Except Special Education",elementary-school-teachers-except-special-education-252020
+25-2030,"Secondary School Teachers, Except Special and Career-Technical Education",secondary-school-teachers-except-special-and-career-technical-education-252030
+25-2050,"Special Education Teachers, Preschool",special-education-teachers-preschool-252050
+25-3010,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",adult-basic-education-adult-secondary-education-and-english-as-a-second-language-instructors-253010
+25-3020,Self-Enrichment Teachers,self-enrichment-teachers-253020
+25-3030,"Substitute Teachers, Short-Term",substitute-teachers-short-term-253030
+25-3040,Tutors,tutors-253040
+25-3090,"Teachers and Instructors, All Other",teachers-and-instructors-all-other-253090
+25-4010,Archivists,archivists-254010
+25-4020,Librarians and Media Collections Specialists,librarians-and-media-collections-specialists-254020
+25-4030,Library Technicians,library-technicians-254030
+25-9020,Farm and Home Management Educators,farm-and-home-management-educators-259020
+25-9030,Instructional Coordinators,instructional-coordinators-259030
+25-9040,"Teaching Assistants, Postsecondary",teaching-assistants-postsecondary-259040
+25-9090,"Educational Instruction and Library Workers, All Other",educational-instruction-and-library-workers-all-other-259090
+27-1010,Art Directors,art-directors-271010
+27-1020,Commercial and Industrial Designers,commercial-and-industrial-designers-271020
+27-2010,Actors,actors-272010
+27-2020,Athletes and Sports Competitors,athletes-and-sports-competitors-272020
+27-2030,Dancers,dancers-272030
+27-2040,Music Directors and Composers,music-directors-and-composers-272040
+27-2090,"Disc Jockeys, Except Radio",disc-jockeys-except-radio-272090
+27-3010,Broadcast Announcers and Radio Disc Jockeys,broadcast-announcers-and-radio-disc-jockeys-273010
+27-3020,"News Analysts, Reporters, and Journalists",news-analysts-reporters-and-journalists-273020
+27-3030,Public Relations Specialists,public-relations-specialists-273030
+27-3040,Editors,editors-273040
+27-3090,Interpreters and Translators,interpreters-and-translators-273090
+27-4010,Audio and Video Technicians,audio-and-video-technicians-274010
+27-4020,Photographers,photographers-274020
+27-4030,"Camera Operators, Television, Video, and Film",camera-operators-television-video-and-film-274030
+27-4090,"Media and Communication Equipment Workers, All Other",media-and-communication-equipment-workers-all-other-274090
+29-1010,Chiropractors,chiropractors-291010
+29-1020,"Dentists, General",dentists-general-291020
+29-1030,Dietitians and Nutritionists,dietitians-and-nutritionists-291030
+29-1040,Optometrists,optometrists-291040
+29-1050,Pharmacists,pharmacists-291050
+29-1070,Physician Assistants,physician-assistants-291070
+29-1080,Podiatrists,podiatrists-291080
+29-1120,Occupational Therapists,occupational-therapists-291120
+29-1130,Veterinarians,veterinarians-291130
+29-1140,Advanced Practice Psychiatric Nurses,advanced-practice-psychiatric-nurses-291140
+29-1150,Nurse Anesthetists,nurse-anesthetists-291150
+29-1160,Nurse Midwives,nurse-midwives-291160
+29-1170,Nurse Practitioners,nurse-practitioners-291170
+29-1180,Audiologists,audiologists-291180
+29-1210,Anesthesiologists,anesthesiologists-291210
+29-1220,"Pediatricians, General",pediatricians-general-291220
+29-1240,"Ophthalmologists, Except Pediatric",ophthalmologists-except-pediatric-291240
+29-1290,Acupuncturists,acupuncturists-291290
+29-2010,Medical and Clinical Laboratory Technologists,medical-and-clinical-laboratory-technologists-292010
+29-2030,Cardiovascular Technologists and Technicians,cardiovascular-technologists-and-technicians-292030
+29-2040,Emergency Medical Technicians,emergency-medical-technicians-292040
+29-2050,Dietetic Technicians,dietetic-technicians-292050
+29-2060,Licensed Practical and Licensed Vocational Nurses,licensed-practical-and-licensed-vocational-nurses-292060
+29-2070,Medical Records Specialists,medical-records-specialists-292070
+29-2080,"Opticians, Dispensing",opticians-dispensing-292080
+29-2090,Orthotists and Prosthetists,orthotists-and-prosthetists-292090
+29-9020,Health Information Technologists and Medical Registrars,health-information-technologists-and-medical-registrars-299020
+29-9090,Athletic Trainers,athletic-trainers-299090
+31-1120,Home Health Aides,home-health-aides-311120
+31-1130,Nursing Assistants,nursing-assistants-311130
+31-2010,Occupational Therapy Assistants,occupational-therapy-assistants-312010
+31-2020,Physical Therapist Assistants,physical-therapist-assistants-312020
+31-9010,Massage Therapists,massage-therapists-319010
+31-9090,Dental Assistants,dental-assistants-319090
+33-1010,First-Line Supervisors of Correctional Officers,first-line-supervisors-of-correctional-officers-331010
+33-1020,First-Line Supervisors of Firefighting and Prevention Workers,first-line-supervisors-of-firefighting-and-prevention-workers-331020
+33-1090,First-Line Supervisors of Security Workers,first-line-supervisors-of-security-workers-331090
+33-2010,Firefighters,firefighters-332010
+33-2020,Fire Inspectors and Investigators,fire-inspectors-and-investigators-332020
+33-3010,Bailiffs,bailiffs-333010
+33-3020,Intelligence Analysts,intelligence-analysts-333020
+33-3030,Fish and Game Wardens,fish-and-game-wardens-333030
+33-3040,Parking Enforcement Workers,parking-enforcement-workers-333040
+33-3050,Police and Sheriff's Patrol Officers,police-and-sheriff's-patrol-officers-333050
+33-9010,Animal Control Workers,animal-control-workers-339010
+33-9020,Private Detectives and Investigators,private-detectives-and-investigators-339020
+33-9030,Gambling Surveillance Officers and Gambling Investigators,gambling-surveillance-officers-and-gambling-investigators-339030
+33-9090,Crossing Guards and Flaggers,crossing-guards-and-flaggers-339090
+35-1010,Chefs and Head Cooks,chefs-and-head-cooks-351010
+35-2010,"Cooks, Fast Food",cooks-fast-food-352010
+35-2020,Food Preparation Workers,food-preparation-workers-352020
+35-3010,Bartenders,bartenders-353010
+35-3020,Fast Food and Counter Workers,fast-food-and-counter-workers-353020
+35-3030,Waiters and Waitresses,waiters-and-waitresses-353030
+35-3040,"Food Servers, Nonrestaurant",food-servers-nonrestaurant-353040
+35-9010,Dining Room and Cafeteria Attendants and Bartender Helpers,dining-room-and-cafeteria-attendants-and-bartender-helpers-359010
+35-9020,Dishwashers,dishwashers-359020
+35-9030,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",hosts-and-hostesses-restaurant-lounge-and-coffee-shop-359030
+35-9090,"Food Preparation and Serving Related Workers, All Other",food-preparation-and-serving-related-workers-all-other-359090
+37-1010,First-Line Supervisors of Housekeeping and Janitorial Workers,first-line-supervisors-of-housekeeping-and-janitorial-workers-371010
+37-2010,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",janitors-and-cleaners-except-maids-and-housekeeping-cleaners-372010
+37-2020,Pest Control Workers,pest-control-workers-372020
+37-3010,Landscaping and Groundskeeping Workers,landscaping-and-groundskeeping-workers-373010
+39-1010,First-Line Supervisors of Gambling Services Workers,first-line-supervisors-of-gambling-services-workers-391010
+39-1020,First-Line Supervisors of Personal Service Workers,first-line-supervisors-of-personal-service-workers-391020
+39-2010,Animal Trainers,animal-trainers-392010
+39-2020,Animal Caretakers,animal-caretakers-392020
+39-3010,Gambling Dealers,gambling-dealers-393010
+39-3020,Motion Picture Projectionists,motion-picture-projectionists-393020
+39-3030,"Ushers, Lobby Attendants, and Ticket Takers",ushers-lobby-attendants-and-ticket-takers-393030
+39-3090,Amusement and Recreation Attendants,amusement-and-recreation-attendants-393090
+39-4010,Embalmers,embalmers-394010
+39-4020,Funeral Attendants,funeral-attendants-394020
+39-4030,"Morticians, Undertakers, and Funeral Arrangers",morticians-undertakers-and-funeral-arrangers-394030
+39-5010,Barbers,barbers-395010
+39-5090,"Makeup Artists, Theatrical and Performance",makeup-artists-theatrical-and-performance-395090
+39-6010,Baggage Porters and Bellhops,baggage-porters-and-bellhops-396010
+39-7010,Tour Guides and Escorts,tour-guides-and-escorts-397010
+39-9010,Childcare Workers,childcare-workers-399010
+39-9030,Exercise Trainers and Group Fitness Instructors,exercise-trainers-and-group-fitness-instructors-399030
+39-9040,Residential Advisors,residential-advisors-399040
+39-9090,"Personal Care and Service Workers, All Other",personal-care-and-service-workers-all-other-399090
+41-1010,First-Line Supervisors of Retail Sales Workers,first-line-supervisors-of-retail-sales-workers-411010
+41-2010,Cashiers,cashiers-412010
+41-2020,Counter and Rental Clerks,counter-and-rental-clerks-412020
+41-2030,Retail Salespersons,retail-salespersons-412030
+41-3010,Advertising Sales Agents,advertising-sales-agents-413010
+41-3020,Insurance Sales Agents,insurance-sales-agents-413020
+41-3030,"Securities, Commodities, and Financial Services Sales Agents",securities-commodities-and-financial-services-sales-agents-413030
+41-3040,Travel Agents,travel-agents-413040
+41-3090,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",sales-representatives-of-services-except-advertising-insurance-financial-services-and-travel-413090
+41-4010,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",sales-representatives-wholesale-and-manufacturing-technical-and-scientific-products-414010
+41-9010,Demonstrators and Product Promoters,demonstrators-and-product-promoters-419010
+41-9020,Real Estate Brokers,real-estate-brokers-419020
+41-9030,Sales Engineers,sales-engineers-419030
+41-9040,Telemarketers,telemarketers-419040
+41-9090,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",door-to-door-sales-workers-news-and-street-vendors-and-related-workers-419090
+43-1010,First-Line Supervisors of Office and Administrative Support Workers,first-line-supervisors-of-office-and-administrative-support-workers-431010
+43-2010,"Switchboard Operators, Including Answering Service",switchboard-operators-including-answering-service-432010
+43-2020,Telephone Operators,telephone-operators-432020
+43-2090,"Communications Equipment Operators, All Other",communications-equipment-operators-all-other-432090
+43-3010,Bill and Account Collectors,bill-and-account-collectors-433010
+43-3020,Billing and Posting Clerks,billing-and-posting-clerks-433020
+43-3030,"Bookkeeping, Accounting, and Auditing Clerks",bookkeeping-accounting-and-auditing-clerks-433030
+43-3040,Gambling Cage Workers,gambling-cage-workers-433040
+43-3050,Payroll and Timekeeping Clerks,payroll-and-timekeeping-clerks-433050
+43-3060,Procurement Clerks,procurement-clerks-433060
+43-3070,Tellers,tellers-433070
+43-3090,"Financial Clerks, All Other",financial-clerks-all-other-433090
+43-4010,Brokerage Clerks,brokerage-clerks-434010
+43-4020,Correspondence Clerks,correspondence-clerks-434020
+43-4030,"Court, Municipal, and License Clerks",court-municipal-and-license-clerks-434030
+43-4040,"Credit Authorizers, Checkers, and Clerks",credit-authorizers-checkers-and-clerks-434040
+43-4050,Customer Service Representatives,customer-service-representatives-434050
+43-4060,"Eligibility Interviewers, Government Programs",eligibility-interviewers-government-programs-434060
+43-4070,File Clerks,file-clerks-434070
+43-4080,"Hotel, Motel, and Resort Desk Clerks",hotel-motel-and-resort-desk-clerks-434080
+43-4110,"Interviewers, Except Eligibility and Loan",interviewers-except-eligibility-and-loan-434110
+43-4120,"Library Assistants, Clerical",library-assistants-clerical-434120
+43-4130,Loan Interviewers and Clerks,loan-interviewers-and-clerks-434130
+43-4140,New Accounts Clerks,new-accounts-clerks-434140
+43-4150,Order Clerks,order-clerks-434150
+43-4160,"Human Resources Assistants, Except Payroll and Timekeeping",human-resources-assistants-except-payroll-and-timekeeping-434160
+43-4170,Receptionists and Information Clerks,receptionists-and-information-clerks-434170
+43-4180,Reservation and Transportation Ticket Agents and Travel Clerks,reservation-and-transportation-ticket-agents-and-travel-clerks-434180
+43-4190,"Information and Record Clerks, All Other",information-and-record-clerks-all-other-434190
+43-5010,Cargo and Freight Agents,cargo-and-freight-agents-435010
+43-5020,Couriers and Messengers,couriers-and-messengers-435020
+43-5030,Public Safety Telecommunicators,public-safety-telecommunicators-435030
+43-5040,"Meter Readers, Utilities",meter-readers-utilities-435040
+43-5050,Postal Service Clerks,postal-service-clerks-435050
+43-5060,"Production, Planning, and Expediting Clerks",production-planning-and-expediting-clerks-435060
+43-5070,"Shipping, Receiving, and Inventory Clerks",shipping-receiving-and-inventory-clerks-435070
+43-5110,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",weighers-measurers-checkers-and-samplers-recordkeeping-435110
+43-6010,Executive Secretaries and Executive Administrative Assistants,executive-secretaries-and-executive-administrative-assistants-436010
+43-9020,Data Entry Keyers,data-entry-keyers-439020
+43-9030,Desktop Publishers,desktop-publishers-439030
+43-9040,Insurance Claims and Policy Processing Clerks,insurance-claims-and-policy-processing-clerks-439040
+43-9050,"Mail Clerks and Mail Machine Operators, Except Postal Service",mail-clerks-and-mail-machine-operators-except-postal-service-439050
+43-9060,"Office Clerks, General",office-clerks-general-439060
+43-9070,"Office Machine Operators, Except Computer",office-machine-operators-except-computer-439070
+43-9080,Proofreaders and Copy Markers,proofreaders-and-copy-markers-439080
+43-9110,Statistical Assistants,statistical-assistants-439110
+43-9190,"Office and Administrative Support Workers, All Other",office-and-administrative-support-workers-all-other-439190
+45-1010,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",first-line-supervisors-of-farming-fishing-and-forestry-workers-451010
+45-2010,Agricultural Inspectors,agricultural-inspectors-452010
+45-2020,Animal Breeders,animal-breeders-452020
+45-2040,"Graders and Sorters, Agricultural Products",graders-and-sorters-agricultural-products-452040
+45-2090,Agricultural Equipment Operators,agricultural-equipment-operators-452090
+45-3030,Fishing and Hunting Workers,fishing-and-hunting-workers-453030
+45-4010,Forest and Conservation Workers,forest-and-conservation-workers-454010
+45-4020,Fallers,fallers-454020
+47-1010,First-Line Supervisors of Construction Trades and Extraction Workers,first-line-supervisors-of-construction-trades-and-extraction-workers-471010
+47-2010,Boilermakers,boilermakers-472010
+47-2020,Brickmasons and Blockmasons,brickmasons-and-blockmasons-472020
+47-2030,Carpenters,carpenters-472030
+47-2040,Carpet Installers,carpet-installers-472040
+47-2050,Cement Masons and Concrete Finishers,cement-masons-and-concrete-finishers-472050
+47-2060,Construction Laborers,construction-laborers-472060
+47-2070,"Paving, Surfacing, and Tamping Equipment Operators",paving-surfacing-and-tamping-equipment-operators-472070
+47-2080,Drywall and Ceiling Tile Installers,drywall-and-ceiling-tile-installers-472080
+47-2110,Electricians,electricians-472110
+47-2120,Glaziers,glaziers-472120
+47-2130,"Insulation Workers, Floor, Ceiling, and Wall",insulation-workers-floor-ceiling-and-wall-472130
+47-2140,"Painters, Construction and Maintenance",painters-construction-and-maintenance-472140
+47-2150,Pipelayers,pipelayers-472150
+47-2160,Plasterers and Stucco Masons,plasterers-and-stucco-masons-472160
+47-2170,Reinforcing Iron and Rebar Workers,reinforcing-iron-and-rebar-workers-472170
+47-2180,Roofers,roofers-472180
+47-2210,Sheet Metal Workers,sheet-metal-workers-472210
+47-2220,Structural Iron and Steel Workers,structural-iron-and-steel-workers-472220
+47-2230,Solar Photovoltaic Installers,solar-photovoltaic-installers-472230
+47-3010,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",helpers--brickmasons-blockmasons-stonemasons-and-tile-and-marble-setters-473010
+47-4010,Construction and Building Inspectors,construction-and-building-inspectors-474010
+47-4020,Elevator and Escalator Installers and Repairers,elevator-and-escalator-installers-and-repairers-474020
+47-4030,Fence Erectors,fence-erectors-474030
+47-4040,Hazardous Materials Removal Workers,hazardous-materials-removal-workers-474040
+47-4050,Highway Maintenance Workers,highway-maintenance-workers-474050
+47-4060,Rail-Track Laying and Maintenance Equipment Operators,rail-track-laying-and-maintenance-equipment-operators-474060
+47-4070,Septic Tank Servicers and Sewer Pipe Cleaners,septic-tank-servicers-and-sewer-pipe-cleaners-474070
+47-4090,Segmental Pavers,segmental-pavers-474090
+47-5010,"Derrick Operators, Oil and Gas",derrick-operators-oil-and-gas-475010
+47-5020,"Excavating and Loading Machine and Dragline Operators, Surface Mining",excavating-and-loading-machine-and-dragline-operators-surface-mining-475020
+47-5030,"Explosives Workers, Ordnance Handling Experts, and Blasters",explosives-workers-ordnance-handling-experts-and-blasters-475030
+47-5040,Continuous Mining Machine Operators,continuous-mining-machine-operators-475040
+47-5050,"Rock Splitters, Quarry",rock-splitters-quarry-475050
+47-5070,"Roustabouts, Oil and Gas",roustabouts-oil-and-gas-475070
+47-5080,Helpers--Extraction Workers,helpers--extraction-workers-475080
+47-5090,"Extraction Workers, All Other",extraction-workers-all-other-475090
+49-1010,"First-Line Supervisors of Mechanics, Installers, and Repairers",first-line-supervisors-of-mechanics-installers-and-repairers-491010
+49-2010,"Computer, Automated Teller, and Office Machine Repairers",computer-automated-teller-and-office-machine-repairers-492010
+49-2020,"Radio, Cellular, and Tower Equipment Installers and Repairers",radio-cellular-and-tower-equipment-installers-and-repairers-492020
+49-2090,Avionics Technicians,avionics-technicians-492090
+49-3010,Aircraft Mechanics and Service Technicians,aircraft-mechanics-and-service-technicians-493010
+49-3020,Automotive Body and Related Repairers,automotive-body-and-related-repairers-493020
+49-3030,Bus and Truck Mechanics and Diesel Engine Specialists,bus-and-truck-mechanics-and-diesel-engine-specialists-493030
+49-3040,Farm Equipment Mechanics and Service Technicians,farm-equipment-mechanics-and-service-technicians-493040
+49-3050,Motorboat Mechanics and Service Technicians,motorboat-mechanics-and-service-technicians-493050
+49-3090,Bicycle Repairers,bicycle-repairers-493090
+49-9010,Mechanical Door Repairers,mechanical-door-repairers-499010
+49-9020,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",heating-air-conditioning-and-refrigeration-mechanics-and-installers-499020
+49-9030,Home Appliance Repairers,home-appliance-repairers-499030
+49-9040,Industrial Machinery Mechanics,industrial-machinery-mechanics-499040
+49-9050,Electrical Power-Line Installers and Repairers,electrical-power-line-installers-and-repairers-499050
+49-9060,Camera and Photographic Equipment Repairers,camera-and-photographic-equipment-repairers-499060
+49-9070,"Maintenance and Repair Workers, General",maintenance-and-repair-workers-general-499070
+49-9080,Wind Turbine Service Technicians,wind-turbine-service-technicians-499080
+49-9090,"Coin, Vending, and Amusement Machine Servicers and Repairers",coin-vending-and-amusement-machine-servicers-and-repairers-499090
+51-1010,First-Line Supervisors of Production and Operating Workers,first-line-supervisors-of-production-and-operating-workers-511010
+51-2010,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",aircraft-structure-surfaces-rigging-and-systems-assemblers-512010
+51-2020,"Coil Winders, Tapers, and Finishers",coil-winders-tapers-and-finishers-512020
+51-2030,Engine and Other Machine Assemblers,engine-and-other-machine-assemblers-512030
+51-2040,Structural Metal Fabricators and Fitters,structural-metal-fabricators-and-fitters-512040
+51-2050,Fiberglass Laminators and Fabricators,fiberglass-laminators-and-fabricators-512050
+51-2060,Timing Device Assemblers and Adjusters,timing-device-assemblers-and-adjusters-512060
+51-2090,Team Assemblers,team-assemblers-512090
+51-3010,Bakers,bakers-513010
+51-3020,Butchers and Meat Cutters,butchers-and-meat-cutters-513020
+51-3090,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",food-and-tobacco-roasting-baking-and-drying-machine-operators-and-tenders-513090
+51-4020,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",extruding-and-drawing-machine-setters-operators-and-tenders-metal-and-plastic-514020
+51-4030,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",cutting-punching-and-press-machine-setters-operators-and-tenders-metal-and-plastic-514030
+51-4040,Machinists,machinists-514040
+51-4050,Metal-Refining Furnace Operators and Tenders,metal-refining-furnace-operators-and-tenders-514050
+51-4060,"Model Makers, Metal and Plastic",model-makers-metal-and-plastic-514060
+51-4070,Foundry Mold and Coremakers,foundry-mold-and-coremakers-514070
+51-4080,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",multiple-machine-tool-setters-operators-and-tenders-metal-and-plastic-514080
+51-4110,Tool and Die Makers,tool-and-die-makers-514110
+51-4120,"Welders, Cutters, Solderers, and Brazers",welders-cutters-solderers-and-brazers-514120
+51-4190,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",heat-treating-equipment-setters-operators-and-tenders-metal-and-plastic-514190
+51-5110,Prepress Technicians and Workers,prepress-technicians-and-workers-515110
+51-6010,Laundry and Dry-Cleaning Workers,laundry-and-dry-cleaning-workers-516010
+51-6020,"Pressers, Textile, Garment, and Related Materials",pressers-textile-garment-and-related-materials-516020
+51-6030,Sewing Machine Operators,sewing-machine-operators-516030
+51-6040,Shoe and Leather Workers and Repairers,shoe-and-leather-workers-and-repairers-516040
+51-6050,"Sewers, Hand",sewers-hand-516050
+51-6060,Textile Bleaching and Dyeing Machine Operators and Tenders,textile-bleaching-and-dyeing-machine-operators-and-tenders-516060
+51-6090,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",extruding-and-forming-machine-setters-operators-and-tenders-synthetic-and-glass-fibers-516090
+51-7010,Cabinetmakers and Bench Carpenters,cabinetmakers-and-bench-carpenters-517010
+51-7020,Furniture Finishers,furniture-finishers-517020
+51-7030,"Model Makers, Wood",model-makers-wood-517030
+51-7040,"Sawing Machine Setters, Operators, and Tenders, Wood",sawing-machine-setters-operators-and-tenders-wood-517040
+51-7090,"Woodworkers, All Other",woodworkers-all-other-517090
+51-8010,Nuclear Power Reactor Operators,nuclear-power-reactor-operators-518010
+51-8020,Stationary Engineers and Boiler Operators,stationary-engineers-and-boiler-operators-518020
+51-8030,Water and Wastewater Treatment Plant and System Operators,water-and-wastewater-treatment-plant-and-system-operators-518030
+51-8090,Chemical Plant and System Operators,chemical-plant-and-system-operators-518090
+51-9010,Chemical Equipment Operators and Tenders,chemical-equipment-operators-and-tenders-519010
+51-9020,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",crushing-grinding-and-polishing-machine-setters-operators-and-tenders-519020
+51-9030,"Cutters and Trimmers, Hand",cutters-and-trimmers-hand-519030
+51-9040,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",extruding-forming-pressing-and-compacting-machine-setters-operators-and-tenders-519040
+51-9050,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",furnace-kiln-oven-drier-and-kettle-operators-and-tenders-519050
+51-9060,"Inspectors, Testers, Sorters, Samplers, and Weighers",inspectors-testers-sorters-samplers-and-weighers-519060
+51-9070,Jewelers and Precious Stone and Metal Workers,jewelers-and-precious-stone-and-metal-workers-519070
+51-9080,Dental Laboratory Technicians,dental-laboratory-technicians-519080
+51-9110,Packaging and Filling Machine Operators and Tenders,packaging-and-filling-machine-operators-and-tenders-519110
+51-9120,"Painting, Coating, and Decorating Workers",painting-coating-and-decorating-workers-519120
+51-9140,Semiconductor Processing Technicians,semiconductor-processing-technicians-519140
+51-9150,Photographic Process Workers and Processing Machine Operators,photographic-process-workers-and-processing-machine-operators-519150
+51-9160,Computer Numerically Controlled Tool Operators,computer-numerically-controlled-tool-operators-519160
+51-9190,Adhesive Bonding Machine Operators and Tenders,adhesive-bonding-machine-operators-and-tenders-519190
+53-1040,Aircraft Cargo Handling Supervisors,aircraft-cargo-handling-supervisors-531040
+53-2010,"Airline Pilots, Copilots, and Flight Engineers",airline-pilots-copilots-and-flight-engineers-532010
+53-2020,Air Traffic Controllers,air-traffic-controllers-532020
+53-2030,Flight Attendants,flight-attendants-532030
+53-3010,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",ambulance-drivers-and-attendants-except-emergency-medical-technicians-533010
+53-3030,Driver-Sales Workers,driver-sales-workers-533030
+53-3050,"Bus Drivers, School",bus-drivers-school-533050
+53-3090,"Motor Vehicle Operators, All Other",motor-vehicle-operators-all-other-533090
+53-4010,Locomotive Engineers,locomotive-engineers-534010
+53-4020,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",railroad-brake-signal-and-switch-operators-and-locomotive-firers-534020
+53-4030,Railroad Conductors and Yardmasters,railroad-conductors-and-yardmasters-534030
+53-4040,Subway and Streetcar Operators,subway-and-streetcar-operators-534040
+53-4090,"Rail Transportation Workers, All Other",rail-transportation-workers-all-other-534090
+53-5010,Sailors and Marine Oilers,sailors-and-marine-oilers-535010
+53-5020,"Captains, Mates, and Pilots of Water Vessels",captains-mates-and-pilots-of-water-vessels-535020
+53-5030,Ship Engineers,ship-engineers-535030
+53-6010,Bridge and Lock Tenders,bridge-and-lock-tenders-536010
+53-6020,Parking Attendants,parking-attendants-536020
+53-6030,Automotive and Watercraft Service Attendants,automotive-and-watercraft-service-attendants-536030
+53-6040,Traffic Technicians,traffic-technicians-536040
+53-6050,Transportation Inspectors,transportation-inspectors-536050
+53-6060,Passenger Attendants,passenger-attendants-536060
+53-6090,"Transportation Workers, All Other",transportation-workers-all-other-536090
+53-7010,Conveyor Operators and Tenders,conveyor-operators-and-tenders-537010
+53-7020,Crane and Tower Operators,crane-and-tower-operators-537020
+53-7030,Dredge Operators,dredge-operators-537030
+53-7040,Hoist and Winch Operators,hoist-and-winch-operators-537040
+53-7050,Industrial Truck and Tractor Operators,industrial-truck-and-tractor-operators-537050
+53-7060,Cleaners of Vehicles and Equipment,cleaners-of-vehicles-and-equipment-537060
+53-7070,Gas Compressor and Gas Pumping Station Operators,gas-compressor-and-gas-pumping-station-operators-537070
+53-7080,Refuse and Recyclable Material Collectors,refuse-and-recyclable-material-collectors-537080
+53-7120,"Tank Car, Truck, and Ship Loaders",tank-car-truck-and-ship-loaders-537120
+53-7190,"Material Moving Workers, All Other",material-moving-workers-all-other-537190

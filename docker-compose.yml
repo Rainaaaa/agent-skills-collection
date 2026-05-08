@@ -1,0 +1,53 @@
+# Three named services — same image, different default args.
+#
+#   docker compose build
+#   docker compose run --rm labels-l1   --workers 4
+#   docker compose run --rm labels-l2   --workers 4
+#   docker compose run --rm merge
+#   docker compose run --rm fetch-meta  --repo_map /app/output/labels/repo_map.json
+#   docker compose run --rm download    --repo_map /app/output/labels/repo_map.json
+
+services:
+  base: &base
+    image: agentskills-collection:latest
+    build: .
+    # All stages share /app/output so they can see each other's artifacts.
+    # Mount your host work directory here. Override the host side with
+    # AGENTSKILLS_OUTPUT_HOST=/some/path docker compose run ...
+    volumes:
+      - ${AGENTSKILLS_OUTPUT_HOST:-./output}:/app/output
+      # Mount tokens (if you have one) read-only. Skip if you don't.
+      - ${AGENTSKILLS_TOKENS_FILE:-./skills_repos/tokens.json}:/app/skills_repos/tokens.json:ro
+
+  # Stage 1 — SkillsMP list-page sweep.
+  labels-l1:
+    <<: *base
+    command: ["skills_labels_collection/crawl_lists.py",
+              "--output_dir", "/app/output/labels"]
+
+  # Stage 1 — SkillsMP detail-page sweep.
+  labels-l2:
+    <<: *base
+    command: ["skills_labels_collection/crawl_details.py",
+              "--output_dir", "/app/output/labels"]
+
+  # Stage 1 — merge L1 + L2 + SOC into training-ready files.
+  merge:
+    <<: *base
+    command: ["skills_labels_collection/merge_metadata.py",
+              "--output_dir", "/app/output/labels"]
+
+  # Stage 2 — GitHub metadata + license.
+  fetch-meta:
+    <<: *base
+    command: ["skills_repos/fetch_metadata.py",
+              "--output_dir", "/app/output/repos",
+              "--repo_map",   "/app/output/labels/repo_map.json"]
+
+  # Stage 3 — GitHub archive download.
+  download:
+    <<: *base
+    command: ["skills_repos/download_repos.py",
+              "--output_dir",   "/app/output/repos",
+              "--repo_map",     "/app/output/labels/repo_map.json",
+              "--skills_dedup", "/app/output/labels/dedup_index.json"]

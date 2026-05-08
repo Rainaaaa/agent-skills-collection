@@ -1,0 +1,54 @@
+# Crawled artifacts — large + reproducible from the scripts. Keep local, never commit.
+**/output/
+**/log/
+**/logs/
+**/checkpoints/
+**/raw_repos/
+**/packages/
+
+# Python caches / build
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/
+**/.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Backups + scratch
+*.bak
+*.tmp
+*.swp
+*~
+_backup_v1/
+Untitled-*.ipynb
+**/test.py
+
+# Secrets — NEVER commit a real tokens.json
+tokens.json
+!tokens.json.example
+
+# SLURM cluster outputs
+*.log
+*.err
+slurm-*.out
+
+# Local conda env / venv
+.venv/
+venv/
+.env
+
+# Deprecated API-only crawler — superseded by skills_labels_collection/.
+# Local copy stays on disk for archival; not part of the published pipeline.
+skills_collection/
+
+# Smoke-test scratch files inside skills_labels_collection/
+skills_labels_collection/pw_minimal.py
+skills_labels_collection/_pw_node_probe.py
+skills_labels_collection/test.py

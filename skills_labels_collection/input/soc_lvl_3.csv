@@ -1,0 +1,846 @@
+SOC Code,Title,soc_lvl_3
+11-1011,Chief Executives,chief-executives-111011
+11-1021,General and Operations Managers,general-and-operations-managers-111021
+11-1031,Legislators,legislators-111031
+11-2011,Advertising and Promotions Managers,advertising-and-promotions-managers-112011
+11-2021,Marketing Managers,marketing-managers-112021
+11-2022,Sales Managers,sales-managers-112022
+11-2032,Public Relations Managers,public-relations-managers-112032
+11-2033,Fundraising Managers,fundraising-managers-112033
+11-3012,Administrative Services Managers,administrative-services-managers-113012
+11-3013,Security Managers,security-managers-113013
+11-3021,Computer and Information Systems Managers,computer-and-information-systems-managers-113021
+11-3031,Investment Fund Managers,investment-fund-managers-113031
+11-3051,Industrial Production Managers,industrial-production-managers-113051
+11-3061,Purchasing Managers,purchasing-managers-113061
+11-3071,"Transportation, Storage, and Distribution Managers",transportation-storage-and-distribution-managers-113071
+11-3111,Compensation and Benefits Managers,compensation-and-benefits-managers-113111
+11-3121,Human Resources Managers,human-resources-managers-113121
+11-3131,Training and Development Managers,training-and-development-managers-113131
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",farmers-ranchers-and-other-agricultural-managers-119013
+11-9021,Construction Managers,construction-managers-119021
+11-9031,"Education and Childcare Administrators, Preschool and Daycare",education-and-childcare-administrators-preschool-and-daycare-119031
+11-9032,"Education Administrators, Kindergarten through Secondary",education-administrators-kindergarten-through-secondary-119032
+11-9033,"Education Administrators, Postsecondary",education-administrators-postsecondary-119033
+11-9039,"Education Administrators, All Other",education-administrators-all-other-119039
+11-9041,Architectural and Engineering Managers,architectural-and-engineering-managers-119041
+11-9051,Food Service Managers,food-service-managers-119051
+11-9071,Gambling Managers,gambling-managers-119071
+11-9072,"Entertainment and Recreation Managers, Except Gambling",entertainment-and-recreation-managers-except-gambling-119072
+11-9081,Lodging Managers,lodging-managers-119081
+11-9111,Medical and Health Services Managers,medical-and-health-services-managers-119111
+11-9121,Natural Sciences Managers,natural-sciences-managers-119121
+11-9131,Postmasters and Mail Superintendents,postmasters-and-mail-superintendents-119131
+11-9141,"Property, Real Estate, and Community Association Managers",property-real-estate-and-community-association-managers-119141
+11-9151,Social and Community Service Managers,social-and-community-service-managers-119151
+11-9161,Emergency Management Directors,emergency-management-directors-119161
+11-9171,Funeral Home Managers,funeral-home-managers-119171
+11-9179,"Personal Service Managers, All Other",personal-service-managers-all-other-119179
+11-9199,"Managers, All Other",managers-all-other-119199
+13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",agents-and-business-managers-of-artists-performers-and-athletes-131011
+13-1021,"Buyers and Purchasing Agents, Farm Products",buyers-and-purchasing-agents-farm-products-131021
+13-1022,"Wholesale and Retail Buyers, Except Farm Products",wholesale-and-retail-buyers-except-farm-products-131022
+13-1023,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",purchasing-agents-except-wholesale-retail-and-farm-products-131023
+13-1031,"Claims Adjusters, Examiners, and Investigators",claims-adjusters-examiners-and-investigators-131031
+13-1032,"Insurance Appraisers, Auto Damage",insurance-appraisers-auto-damage-131032
+13-1041,Environmental Compliance Inspectors,environmental-compliance-inspectors-131041
+13-1051,Cost Estimators,cost-estimators-131051
+13-1071,Human Resources Specialists,human-resources-specialists-131071
+13-1074,Farm Labor Contractors,farm-labor-contractors-131074
+13-1075,Labor Relations Specialists,labor-relations-specialists-131075
+13-1081,Logisticians,logisticians-131081
+13-1082,Project Management Specialists,project-management-specialists-131082
+13-1111,Management Analysts,management-analysts-131111
+13-1121,"Meeting, Convention, and Event Planners",meeting-convention-and-event-planners-131121
+13-1131,Fundraisers,fundraisers-131131
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",compensation-benefits-and-job-analysis-specialists-131141
+13-1151,Training and Development Specialists,training-and-development-specialists-131151
+13-1161,Market Research Analysts and Marketing Specialists,market-research-analysts-and-marketing-specialists-131161
+13-1199,"Business Operations Specialists, All Other",business-operations-specialists-all-other-131199
+13-2011,Accountants and Auditors,accountants-and-auditors-132011
+13-2022,Appraisers of Personal and Business Property,appraisers-of-personal-and-business-property-132022
+13-2023,Appraisers and Assessors of Real Estate,appraisers-and-assessors-of-real-estate-132023
+13-2031,Budget Analysts,budget-analysts-132031
+13-2041,Credit Analysts,credit-analysts-132041
+13-2051,Financial and Investment Analysts,financial-and-investment-analysts-132051
+13-2052,Personal Financial Advisors,personal-financial-advisors-132052
+13-2053,Insurance Underwriters,insurance-underwriters-132053
+13-2054,Financial Risk Specialists,financial-risk-specialists-132054
+13-2061,Financial Examiners,financial-examiners-132061
+13-2071,Credit Counselors,credit-counselors-132071
+13-2072,Loan Officers,loan-officers-132072
+13-2081,"Tax Examiners and Collectors, and Revenue Agents",tax-examiners-and-collectors-and-revenue-agents-132081
+13-2082,Tax Preparers,tax-preparers-132082
+13-2099,"Financial Specialists, All Other",financial-specialists-all-other-132099
+15-1211,Computer Systems Analysts,computer-systems-analysts-151211
+15-1212,Information Security Analysts,information-security-analysts-151212
+15-1221,Computer and Information Research Scientists,computer-and-information-research-scientists-151221
+15-1231,Computer Network Support Specialists,computer-network-support-specialists-151231
+15-1232,Computer User Support Specialists,computer-user-support-specialists-151232
+15-1241,Computer Network Architects,computer-network-architects-151241
+15-1242,Database Administrators,database-administrators-151242
+15-1243,Database Architects,database-architects-151243
+15-1244,Network and Computer Systems Administrators,network-and-computer-systems-administrators-151244
+15-1251,Computer Programmers,computer-programmers-151251
+15-1252,Software Developers,software-developers-151252
+15-1253,Software Quality Assurance Analysts and Testers,software-quality-assurance-analysts-and-testers-151253
+15-1254,Web Developers,web-developers-151254
+15-1255,Web and Digital Interface Designers,web-and-digital-interface-designers-151255
+15-1299,"Computer Occupations, All Other",computer-occupations-all-other-151299
+15-2011,Actuaries,actuaries-152011
+15-2021,Mathematicians,mathematicians-152021
+15-2031,Operations Research Analysts,operations-research-analysts-152031
+15-2041,Statisticians,statisticians-152041
+15-2051,Data Scientists,data-scientists-152051
+15-2099,"Mathematical Science Occupations, All Other",mathematical-science-occupations-all-other-152099
+17-1011,"Architects, Except Landscape and Naval",architects-except-landscape-and-naval-171011
+17-1012,Landscape Architects,landscape-architects-171012
+17-1021,Cartographers and Photogrammetrists,cartographers-and-photogrammetrists-171021
+17-1022,Surveyors,surveyors-171022
+17-2011,Aerospace Engineers,aerospace-engineers-172011
+17-2021,Agricultural Engineers,agricultural-engineers-172021
+17-2031,Bioengineers and Biomedical Engineers,bioengineers-and-biomedical-engineers-172031
+17-2041,Chemical Engineers,chemical-engineers-172041
+17-2051,Civil Engineers,civil-engineers-172051
+17-2061,Computer Hardware Engineers,computer-hardware-engineers-172061
+17-2071,Electrical Engineers,electrical-engineers-172071
+17-2072,"Electronics Engineers, Except Computer",electronics-engineers-except-computer-172072
+17-2081,Environmental Engineers,environmental-engineers-172081
+17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",health-and-safety-engineers-except-mining-safety-engineers-and-inspectors-172111
+17-2112,Human Factors Engineers and Ergonomists,human-factors-engineers-and-ergonomists-172112
+17-2121,Marine Engineers and Naval Architects,marine-engineers-and-naval-architects-172121
+17-2131,Materials Engineers,materials-engineers-172131
+17-2141,Fuel Cell Engineers,fuel-cell-engineers-172141
+17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",mining-and-geological-engineers-including-mining-safety-engineers-172151
+17-2161,Nuclear Engineers,nuclear-engineers-172161
+17-2171,Petroleum Engineers,petroleum-engineers-172171
+17-2199,"Engineers, All Other",engineers-all-other-172199
+17-3011,Architectural and Civil Drafters,architectural-and-civil-drafters-173011
+17-3012,Electrical and Electronics Drafters,electrical-and-electronics-drafters-173012
+17-3013,Mechanical Drafters,mechanical-drafters-173013
+17-3019,"Drafters, All Other",drafters-all-other-173019
+17-3021,Aerospace Engineering and Operations Technologists and Technicians,aerospace-engineering-and-operations-technologists-and-technicians-173021
+17-3022,Civil Engineering Technologists and Technicians,civil-engineering-technologists-and-technicians-173022
+17-3023,Electrical and Electronic Engineering Technologists and Technicians,electrical-and-electronic-engineering-technologists-and-technicians-173023
+17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,electro-mechanical-and-mechatronics-technologists-and-technicians-173024
+17-3025,Environmental Engineering Technologists and Technicians,environmental-engineering-technologists-and-technicians-173025
+17-3026,Nanotechnology Engineering Technologists and Technicians,nanotechnology-engineering-technologists-and-technicians-173026
+17-3027,Mechanical Engineering Technologists and Technicians,mechanical-engineering-technologists-and-technicians-173027
+17-3028,Calibration Technologists and Technicians,calibration-technologists-and-technicians-173028
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",engineering-technologists-and-technicians-except-drafters-all-other-173029
+17-3031,Surveying and Mapping Technicians,surveying-and-mapping-technicians-173031
+19-1011,Animal Scientists,animal-scientists-191011
+19-1012,Food Scientists and Technologists,food-scientists-and-technologists-191012
+19-1013,Soil and Plant Scientists,soil-and-plant-scientists-191013
+19-1021,Biochemists and Biophysicists,biochemists-and-biophysicists-191021
+19-1022,Microbiologists,microbiologists-191022
+19-1023,Zoologists and Wildlife Biologists,zoologists-and-wildlife-biologists-191023
+19-1029,"Biological Scientists, All Other",biological-scientists-all-other-191029
+19-1031,Conservation Scientists,conservation-scientists-191031
+19-1032,Foresters,foresters-191032
+19-1041,Epidemiologists,epidemiologists-191041
+19-1042,"Medical Scientists, Except Epidemiologists",medical-scientists-except-epidemiologists-191042
+19-1099,"Life Scientists, All Other",life-scientists-all-other-191099
+19-2011,Astronomers,astronomers-192011
+19-2012,Physicists,physicists-192012
+19-2021,Atmospheric and Space Scientists,atmospheric-and-space-scientists-192021
+19-2031,Chemists,chemists-192031
+19-2032,Materials Scientists,materials-scientists-192032
+19-2041,Climate Change Policy Analysts,climate-change-policy-analysts-192041
+19-2042,"Geoscientists, Except Hydrologists and Geographers",geoscientists-except-hydrologists-and-geographers-192042
+19-2043,Hydrologists,hydrologists-192043
+19-2099,"Physical Scientists, All Other",physical-scientists-all-other-192099
+19-3011,Economists,economists-193011
+19-3022,Survey Researchers,survey-researchers-193022
+19-3032,Industrial-Organizational Psychologists,industrial-organizational-psychologists-193032
+19-3033,Clinical and Counseling Psychologists,clinical-and-counseling-psychologists-193033
+19-3034,School Psychologists,school-psychologists-193034
+19-3039,"Psychologists, All Other",psychologists-all-other-193039
+19-3041,Sociologists,sociologists-193041
+19-3051,Urban and Regional Planners,urban-and-regional-planners-193051
+19-3091,Anthropologists and Archeologists,anthropologists-and-archeologists-193091
+19-3092,Geographers,geographers-193092
+19-3093,Historians,historians-193093
+19-3094,Political Scientists,political-scientists-193094
+19-3099,"Social Scientists and Related Workers, All Other",social-scientists-and-related-workers-all-other-193099
+19-4012,Precision Agriculture Technicians,precision-agriculture-technicians-194012
+19-4013,Food Science Technicians,food-science-technicians-194013
+19-4021,Biological Technicians,biological-technicians-194021
+19-4031,Chemical Technicians,chemical-technicians-194031
+19-4042,"Environmental Science and Protection Technicians, Including Health",environmental-science-and-protection-technicians-including-health-194042
+19-4043,"Geological Technicians, Except Hydrologic Technicians",geological-technicians-except-hydrologic-technicians-194043
+19-4044,Hydrologic Technicians,hydrologic-technicians-194044
+19-4051,Nuclear Technicians,nuclear-technicians-194051
+19-4061,Social Science Research Assistants,social-science-research-assistants-194061
+19-4071,Forest and Conservation Technicians,forest-and-conservation-technicians-194071
+19-4092,Forensic Science Technicians,forensic-science-technicians-194092
+19-4099,"Life, Physical, and Social Science Technicians, All Other",life-physical-and-social-science-technicians-all-other-194099
+19-5011,Occupational Health and Safety Specialists,occupational-health-and-safety-specialists-195011
+19-5012,Occupational Health and Safety Technicians,occupational-health-and-safety-technicians-195012
+21-1012,"Educational, Guidance, and Career Counselors and Advisors",educational-guidance-and-career-counselors-and-advisors-211012
+21-1013,Marriage and Family Therapists,marriage-and-family-therapists-211013
+21-1015,Rehabilitation Counselors,rehabilitation-counselors-211015
+21-1018,Substance Abuse and Behavioral Disorder Counselors,substance-abuse-and-behavioral-disorder-counselors-211018
+21-1019,"Counselors, All Other",counselors-all-other-211019
+21-1021,"Child, Family, and School Social Workers",child-family-and-school-social-workers-211021
+21-1022,Healthcare Social Workers,healthcare-social-workers-211022
+21-1023,Mental Health and Substance Abuse Social Workers,mental-health-and-substance-abuse-social-workers-211023
+21-1029,"Social Workers, All Other",social-workers-all-other-211029
+21-1091,Health Education Specialists,health-education-specialists-211091
+21-1092,Probation Officers and Correctional Treatment Specialists,probation-officers-and-correctional-treatment-specialists-211092
+21-1093,Social and Human Service Assistants,social-and-human-service-assistants-211093
+21-1094,Community Health Workers,community-health-workers-211094
+21-1099,"Community and Social Service Specialists, All Other",community-and-social-service-specialists-all-other-211099
+21-2011,Clergy,clergy-212011
+21-2021,"Directors, Religious Activities and Education",directors-religious-activities-and-education-212021
+21-2099,"Religious Workers, All Other",religious-workers-all-other-212099
+23-1011,Lawyers,lawyers-231011
+23-1012,Judicial Law Clerks,judicial-law-clerks-231012
+23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers",administrative-law-judges-adjudicators-and-hearing-officers-231021
+23-1022,"Arbitrators, Mediators, and Conciliators",arbitrators-mediators-and-conciliators-231022
+23-1023,"Judges, Magistrate Judges, and Magistrates",judges-magistrate-judges-and-magistrates-231023
+23-2011,Paralegals and Legal Assistants,paralegals-and-legal-assistants-232011
+23-2093,"Title Examiners, Abstractors, and Searchers",title-examiners-abstractors-and-searchers-232093
+23-2099,"Legal Support Workers, All Other",legal-support-workers-all-other-232099
+25-1011,"Business Teachers, Postsecondary",business-teachers-postsecondary-251011
+25-1021,"Computer Science Teachers, Postsecondary",computer-science-teachers-postsecondary-251021
+25-1022,"Mathematical Science Teachers, Postsecondary",mathematical-science-teachers-postsecondary-251022
+25-1031,"Architecture Teachers, Postsecondary",architecture-teachers-postsecondary-251031
+25-1032,"Engineering Teachers, Postsecondary",engineering-teachers-postsecondary-251032
+25-1041,"Agricultural Sciences Teachers, Postsecondary",agricultural-sciences-teachers-postsecondary-251041
+25-1042,"Biological Science Teachers, Postsecondary",biological-science-teachers-postsecondary-251042
+25-1043,"Forestry and Conservation Science Teachers, Postsecondary",forestry-and-conservation-science-teachers-postsecondary-251043
+25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",atmospheric-earth-marine-and-space-sciences-teachers-postsecondary-251051
+25-1052,"Chemistry Teachers, Postsecondary",chemistry-teachers-postsecondary-251052
+25-1053,"Environmental Science Teachers, Postsecondary",environmental-science-teachers-postsecondary-251053
+25-1054,"Physics Teachers, Postsecondary",physics-teachers-postsecondary-251054
+25-1061,"Anthropology and Archeology Teachers, Postsecondary",anthropology-and-archeology-teachers-postsecondary-251061
+25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",area-ethnic-and-cultural-studies-teachers-postsecondary-251062
+25-1063,"Economics Teachers, Postsecondary",economics-teachers-postsecondary-251063
+25-1064,"Geography Teachers, Postsecondary",geography-teachers-postsecondary-251064
+25-1065,"Political Science Teachers, Postsecondary",political-science-teachers-postsecondary-251065
+25-1066,"Psychology Teachers, Postsecondary",psychology-teachers-postsecondary-251066
+25-1067,"Sociology Teachers, Postsecondary",sociology-teachers-postsecondary-251067
+25-1069,"Social Sciences Teachers, Postsecondary, All Other",social-sciences-teachers-postsecondary-all-other-251069
+25-1071,"Health Specialties Teachers, Postsecondary",health-specialties-teachers-postsecondary-251071
+25-1072,"Nursing Instructors and Teachers, Postsecondary",nursing-instructors-and-teachers-postsecondary-251072
+25-1081,"Education Teachers, Postsecondary",education-teachers-postsecondary-251081
+25-1082,"Library Science Teachers, Postsecondary",library-science-teachers-postsecondary-251082
+25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary",criminal-justice-and-law-enforcement-teachers-postsecondary-251111
+25-1112,"Law Teachers, Postsecondary",law-teachers-postsecondary-251112
+25-1113,"Social Work Teachers, Postsecondary",social-work-teachers-postsecondary-251113
+25-1121,"Art, Drama, and Music Teachers, Postsecondary",art-drama-and-music-teachers-postsecondary-251121
+25-1122,"Communications Teachers, Postsecondary",communications-teachers-postsecondary-251122
+25-1123,"English Language and Literature Teachers, Postsecondary",english-language-and-literature-teachers-postsecondary-251123
+25-1124,"Foreign Language and Literature Teachers, Postsecondary",foreign-language-and-literature-teachers-postsecondary-251124
+25-1125,"History Teachers, Postsecondary",history-teachers-postsecondary-251125
+25-1126,"Philosophy and Religion Teachers, Postsecondary",philosophy-and-religion-teachers-postsecondary-251126
+25-1192,"Family and Consumer Sciences Teachers, Postsecondary",family-and-consumer-sciences-teachers-postsecondary-251192
+25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",recreation-and-fitness-studies-teachers-postsecondary-251193
+25-1194,"Career-Technical Education Teachers, Postsecondary",career-technical-education-teachers-postsecondary-251194
+25-1199,"Postsecondary Teachers, All Other",postsecondary-teachers-all-other-251199
+25-2011,"Preschool Teachers, Except Special Education",preschool-teachers-except-special-education-252011
+25-2012,"Kindergarten Teachers, Except Special Education",kindergarten-teachers-except-special-education-252012
+25-2021,"Elementary School Teachers, Except Special Education",elementary-school-teachers-except-special-education-252021
+25-2022,"Middle School Teachers, Except Special and Career-Technical Education",middle-school-teachers-except-special-and-career-technical-education-252022
+25-2023,"Career-Technical Education Teachers, Middle School",career-technical-education-teachers-middle-school-252023
+25-2031,"Secondary School Teachers, Except Special and Career-Technical Education",secondary-school-teachers-except-special-and-career-technical-education-252031
+25-2032,"Career-Technical Education Teachers, Secondary School",career-technical-education-teachers-secondary-school-252032
+25-2051,"Special Education Teachers, Preschool",special-education-teachers-preschool-252051
+25-2055,"Special Education Teachers, Kindergarten",special-education-teachers-kindergarten-252055
+25-2056,"Special Education Teachers, Elementary School",special-education-teachers-elementary-school-252056
+25-2057,"Special Education Teachers, Middle School",special-education-teachers-middle-school-252057
+25-2058,"Special Education Teachers, Secondary School",special-education-teachers-secondary-school-252058
+25-2059,"Special Education Teachers, All Other",special-education-teachers-all-other-252059
+25-3011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",adult-basic-education-adult-secondary-education-and-english-as-a-second-language-instructors-253011
+25-3021,Self-Enrichment Teachers,self-enrichment-teachers-253021
+25-3031,"Substitute Teachers, Short-Term",substitute-teachers-short-term-253031
+25-3041,Tutors,tutors-253041
+25-3099,"Teachers and Instructors, All Other",teachers-and-instructors-all-other-253099
+25-4011,Archivists,archivists-254011
+25-4012,Curators,curators-254012
+25-4013,Museum Technicians and Conservators,museum-technicians-and-conservators-254013
+25-4022,Librarians and Media Collections Specialists,librarians-and-media-collections-specialists-254022
+25-4031,Library Technicians,library-technicians-254031
+25-9021,Farm and Home Management Educators,farm-and-home-management-educators-259021
+25-9031,Instructional Coordinators,instructional-coordinators-259031
+25-9044,"Teaching Assistants, Postsecondary",teaching-assistants-postsecondary-259044
+25-9045,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",teaching-assistants-preschool-elementary-middle-and-secondary-school-except-special-education-259045
+25-9099,"Educational Instruction and Library Workers, All Other",educational-instruction-and-library-workers-all-other-259099
+27-1011,Art Directors,art-directors-271011
+27-1012,Craft Artists,craft-artists-271012
+27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",fine-artists-including-painters-sculptors-and-illustrators-271013
+27-1014,Special Effects Artists and Animators,special-effects-artists-and-animators-271014
+27-1019,"Artists and Related Workers, All Other",artists-and-related-workers-all-other-271019
+27-1021,Commercial and Industrial Designers,commercial-and-industrial-designers-271021
+27-1022,Fashion Designers,fashion-designers-271022
+27-1023,Floral Designers,floral-designers-271023
+27-1024,Graphic Designers,graphic-designers-271024
+27-1025,Interior Designers,interior-designers-271025
+27-1026,Merchandise Displayers and Window Trimmers,merchandise-displayers-and-window-trimmers-271026
+27-1027,Set and Exhibit Designers,set-and-exhibit-designers-271027
+27-1029,"Designers, All Other",designers-all-other-271029
+27-2011,Actors,actors-272011
+27-2012,Producers and Directors,producers-and-directors-272012
+27-2021,Athletes and Sports Competitors,athletes-and-sports-competitors-272021
+27-2022,Coaches and Scouts,coaches-and-scouts-272022
+27-2023,"Umpires, Referees, and Other Sports Officials",umpires-referees-and-other-sports-officials-272023
+27-2031,Dancers,dancers-272031
+27-2032,Choreographers,choreographers-272032
+27-2041,Music Directors and Composers,music-directors-and-composers-272041
+27-2042,Musicians and Singers,musicians-and-singers-272042
+27-2091,"Disc Jockeys, Except Radio",disc-jockeys-except-radio-272091
+27-2099,"Entertainers and Performers, Sports and Related Workers, All Other",entertainers-and-performers-sports-and-related-workers-all-other-272099
+27-3011,Broadcast Announcers and Radio Disc Jockeys,broadcast-announcers-and-radio-disc-jockeys-273011
+27-3023,"News Analysts, Reporters, and Journalists",news-analysts-reporters-and-journalists-273023
+27-3031,Public Relations Specialists,public-relations-specialists-273031
+27-3041,Editors,editors-273041
+27-3042,Technical Writers,technical-writers-273042
+27-3043,Writers and Authors,writers-and-authors-273043
+27-3091,Interpreters and Translators,interpreters-and-translators-273091
+27-3092,Court Reporters and Simultaneous Captioners,court-reporters-and-simultaneous-captioners-273092
+27-3099,"Media and Communication Workers, All Other",media-and-communication-workers-all-other-273099
+27-4011,Audio and Video Technicians,audio-and-video-technicians-274011
+27-4012,Broadcast Technicians,broadcast-technicians-274012
+27-4014,Sound Engineering Technicians,sound-engineering-technicians-274014
+27-4015,Lighting Technicians,lighting-technicians-274015
+27-4021,Photographers,photographers-274021
+27-4031,"Camera Operators, Television, Video, and Film",camera-operators-television-video-and-film-274031
+27-4032,Film and Video Editors,film-and-video-editors-274032
+27-4099,"Media and Communication Equipment Workers, All Other",media-and-communication-equipment-workers-all-other-274099
+29-1011,Chiropractors,chiropractors-291011
+29-1021,"Dentists, General",dentists-general-291021
+29-1022,Oral and Maxillofacial Surgeons,oral-and-maxillofacial-surgeons-291022
+29-1023,Orthodontists,orthodontists-291023
+29-1024,Prosthodontists,prosthodontists-291024
+29-1029,"Dentists, All Other Specialists",dentists-all-other-specialists-291029
+29-1031,Dietitians and Nutritionists,dietitians-and-nutritionists-291031
+29-1041,Optometrists,optometrists-291041
+29-1051,Pharmacists,pharmacists-291051
+29-1071,Physician Assistants,physician-assistants-291071
+29-1081,Podiatrists,podiatrists-291081
+29-1122,Occupational Therapists,occupational-therapists-291122
+29-1123,Physical Therapists,physical-therapists-291123
+29-1124,Radiation Therapists,radiation-therapists-291124
+29-1125,Recreational Therapists,recreational-therapists-291125
+29-1126,Respiratory Therapists,respiratory-therapists-291126
+29-1127,Speech-Language Pathologists,speech-language-pathologists-291127
+29-1128,Exercise Physiologists,exercise-physiologists-291128
+29-1129,"Therapists, All Other",therapists-all-other-291129
+29-1131,Veterinarians,veterinarians-291131
+29-1141,Advanced Practice Psychiatric Nurses,advanced-practice-psychiatric-nurses-291141
+29-1151,Nurse Anesthetists,nurse-anesthetists-291151
+29-1161,Nurse Midwives,nurse-midwives-291161
+29-1171,Nurse Practitioners,nurse-practitioners-291171
+29-1181,Audiologists,audiologists-291181
+29-1211,Anesthesiologists,anesthesiologists-291211
+29-1212,Cardiologists,cardiologists-291212
+29-1213,Dermatologists,dermatologists-291213
+29-1214,Emergency Medicine Physicians,emergency-medicine-physicians-291214
+29-1215,Family Medicine Physicians,family-medicine-physicians-291215
+29-1216,General Internal Medicine Physicians,general-internal-medicine-physicians-291216
+29-1217,Neurologists,neurologists-291217
+29-1218,Obstetricians and Gynecologists,obstetricians-and-gynecologists-291218
+29-1221,"Pediatricians, General",pediatricians-general-291221
+29-1222,"Physicians, Pathologists",physicians-pathologists-291222
+29-1223,Psychiatrists,psychiatrists-291223
+29-1224,Radiologists,radiologists-291224
+29-1229,"Physicians, All Other",physicians-all-other-291229
+29-1241,"Ophthalmologists, Except Pediatric",ophthalmologists-except-pediatric-291241
+29-1242,"Orthopedic Surgeons, Except Pediatric",orthopedic-surgeons-except-pediatric-291242
+29-1243,Pediatric Surgeons,pediatric-surgeons-291243
+29-1249,"Surgeons, All Other",surgeons-all-other-291249
+29-1291,Acupuncturists,acupuncturists-291291
+29-1292,Dental Hygienists,dental-hygienists-291292
+29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",healthcare-diagnosing-or-treating-practitioners-all-other-291299
+29-2011,Medical and Clinical Laboratory Technologists,medical-and-clinical-laboratory-technologists-292011
+29-2012,Medical and Clinical Laboratory Technicians,medical-and-clinical-laboratory-technicians-292012
+29-2031,Cardiovascular Technologists and Technicians,cardiovascular-technologists-and-technicians-292031
+29-2032,Diagnostic Medical Sonographers,diagnostic-medical-sonographers-292032
+29-2033,Nuclear Medicine Technologists,nuclear-medicine-technologists-292033
+29-2034,Radiologic Technologists and Technicians,radiologic-technologists-and-technicians-292034
+29-2035,Magnetic Resonance Imaging Technologists,magnetic-resonance-imaging-technologists-292035
+29-2036,Medical Dosimetrists,medical-dosimetrists-292036
+29-2042,Emergency Medical Technicians,emergency-medical-technicians-292042
+29-2043,Paramedics,paramedics-292043
+29-2051,Dietetic Technicians,dietetic-technicians-292051
+29-2052,Pharmacy Technicians,pharmacy-technicians-292052
+29-2053,Psychiatric Technicians,psychiatric-technicians-292053
+29-2055,Surgical Technologists,surgical-technologists-292055
+29-2056,Veterinary Technologists and Technicians,veterinary-technologists-and-technicians-292056
+29-2057,Ophthalmic Medical Technicians,ophthalmic-medical-technicians-292057
+29-2061,Licensed Practical and Licensed Vocational Nurses,licensed-practical-and-licensed-vocational-nurses-292061
+29-2072,Medical Records Specialists,medical-records-specialists-292072
+29-2081,"Opticians, Dispensing",opticians-dispensing-292081
+29-2091,Orthotists and Prosthetists,orthotists-and-prosthetists-292091
+29-2092,Hearing Aid Specialists,hearing-aid-specialists-292092
+29-2099,"Health Technologists and Technicians, All Other",health-technologists-and-technicians-all-other-292099
+29-9021,Health Information Technologists and Medical Registrars,health-information-technologists-and-medical-registrars-299021
+29-9091,Athletic Trainers,athletic-trainers-299091
+29-9092,Genetic Counselors,genetic-counselors-299092
+29-9093,Surgical Assistants,surgical-assistants-299093
+29-9099,"Healthcare Practitioners and Technical Workers, All Other",healthcare-practitioners-and-technical-workers-all-other-299099
+31-1121,Home Health Aides,home-health-aides-311121
+31-1122,Personal Care Aides,personal-care-aides-311122
+31-1131,Nursing Assistants,nursing-assistants-311131
+31-1132,Orderlies,orderlies-311132
+31-1133,Psychiatric Aides,psychiatric-aides-311133
+31-2011,Occupational Therapy Assistants,occupational-therapy-assistants-312011
+31-2012,Occupational Therapy Aides,occupational-therapy-aides-312012
+31-2021,Physical Therapist Assistants,physical-therapist-assistants-312021
+31-2022,Physical Therapist Aides,physical-therapist-aides-312022
+31-9011,Massage Therapists,massage-therapists-319011
+31-9091,Dental Assistants,dental-assistants-319091
+31-9092,Medical Assistants,medical-assistants-319092
+31-9093,Medical Equipment Preparers,medical-equipment-preparers-319093
+31-9094,Medical Transcriptionists,medical-transcriptionists-319094
+31-9095,Pharmacy Aides,pharmacy-aides-319095
+31-9096,Veterinary Assistants and Laboratory Animal Caretakers,veterinary-assistants-and-laboratory-animal-caretakers-319096
+31-9097,Phlebotomists,phlebotomists-319097
+31-9099,"Healthcare Support Workers, All Other",healthcare-support-workers-all-other-319099
+33-1011,First-Line Supervisors of Correctional Officers,first-line-supervisors-of-correctional-officers-331011
+33-1012,First-Line Supervisors of Police and Detectives,first-line-supervisors-of-police-and-detectives-331012
+33-1021,First-Line Supervisors of Firefighting and Prevention Workers,first-line-supervisors-of-firefighting-and-prevention-workers-331021
+33-1091,First-Line Supervisors of Security Workers,first-line-supervisors-of-security-workers-331091
+33-1099,"First-Line Supervisors of Protective Service Workers, All Other",first-line-supervisors-of-protective-service-workers-all-other-331099
+33-2011,Firefighters,firefighters-332011
+33-2021,Fire Inspectors and Investigators,fire-inspectors-and-investigators-332021
+33-2022,Forest Fire Inspectors and Prevention Specialists,forest-fire-inspectors-and-prevention-specialists-332022
+33-3011,Bailiffs,bailiffs-333011
+33-3012,Correctional Officers and Jailers,correctional-officers-and-jailers-333012
+33-3021,Intelligence Analysts,intelligence-analysts-333021
+33-3031,Fish and Game Wardens,fish-and-game-wardens-333031
+33-3041,Parking Enforcement Workers,parking-enforcement-workers-333041
+33-3051,Police and Sheriff's Patrol Officers,police-and-sheriff's-patrol-officers-333051
+33-3052,Transit and Railroad Police,transit-and-railroad-police-333052
+33-9011,Animal Control Workers,animal-control-workers-339011
+33-9021,Private Detectives and Investigators,private-detectives-and-investigators-339021
+33-9031,Gambling Surveillance Officers and Gambling Investigators,gambling-surveillance-officers-and-gambling-investigators-339031
+33-9032,Security Guards,security-guards-339032
+33-9091,Crossing Guards and Flaggers,crossing-guards-and-flaggers-339091
+33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",lifeguards-ski-patrol-and-other-recreational-protective-service-workers-339092
+33-9093,Transportation Security Screeners,transportation-security-screeners-339093
+33-9094,School Bus Monitors,school-bus-monitors-339094
+33-9099,"Protective Service Workers, All Other",protective-service-workers-all-other-339099
+35-1011,Chefs and Head Cooks,chefs-and-head-cooks-351011
+35-1012,First-Line Supervisors of Food Preparation and Serving Workers,first-line-supervisors-of-food-preparation-and-serving-workers-351012
+35-2011,"Cooks, Fast Food",cooks-fast-food-352011
+35-2012,"Cooks, Institution and Cafeteria",cooks-institution-and-cafeteria-352012
+35-2013,"Cooks, Private Household",cooks-private-household-352013
+35-2014,"Cooks, Restaurant",cooks-restaurant-352014
+35-2015,"Cooks, Short Order",cooks-short-order-352015
+35-2019,"Cooks, All Other",cooks-all-other-352019
+35-2021,Food Preparation Workers,food-preparation-workers-352021
+35-3011,Bartenders,bartenders-353011
+35-3023,Fast Food and Counter Workers,fast-food-and-counter-workers-353023
+35-3031,Waiters and Waitresses,waiters-and-waitresses-353031
+35-3041,"Food Servers, Nonrestaurant",food-servers-nonrestaurant-353041
+35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers,dining-room-and-cafeteria-attendants-and-bartender-helpers-359011
+35-9021,Dishwashers,dishwashers-359021
+35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",hosts-and-hostesses-restaurant-lounge-and-coffee-shop-359031
+35-9099,"Food Preparation and Serving Related Workers, All Other",food-preparation-and-serving-related-workers-all-other-359099
+37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers,first-line-supervisors-of-housekeeping-and-janitorial-workers-371011
+37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",first-line-supervisors-of-landscaping-lawn-service-and-groundskeeping-workers-371012
+37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",janitors-and-cleaners-except-maids-and-housekeeping-cleaners-372011
+37-2012,Maids and Housekeeping Cleaners,maids-and-housekeeping-cleaners-372012
+37-2019,"Building Cleaning Workers, All Other",building-cleaning-workers-all-other-372019
+37-2021,Pest Control Workers,pest-control-workers-372021
+37-3011,Landscaping and Groundskeeping Workers,landscaping-and-groundskeeping-workers-373011
+37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",pesticide-handlers-sprayers-and-applicators-vegetation-373012
+37-3013,Tree Trimmers and Pruners,tree-trimmers-and-pruners-373013
+37-3019,"Grounds Maintenance Workers, All Other",grounds-maintenance-workers-all-other-373019
+39-1013,First-Line Supervisors of Gambling Services Workers,first-line-supervisors-of-gambling-services-workers-391013
+39-1014,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",first-line-supervisors-of-entertainment-and-recreation-workers-except-gambling-services-391014
+39-1022,First-Line Supervisors of Personal Service Workers,first-line-supervisors-of-personal-service-workers-391022
+39-2011,Animal Trainers,animal-trainers-392011
+39-2021,Animal Caretakers,animal-caretakers-392021
+39-3011,Gambling Dealers,gambling-dealers-393011
+39-3012,Gambling and Sports Book Writers and Runners,gambling-and-sports-book-writers-and-runners-393012
+39-3019,"Gambling Service Workers, All Other",gambling-service-workers-all-other-393019
+39-3021,Motion Picture Projectionists,motion-picture-projectionists-393021
+39-3031,"Ushers, Lobby Attendants, and Ticket Takers",ushers-lobby-attendants-and-ticket-takers-393031
+39-3091,Amusement and Recreation Attendants,amusement-and-recreation-attendants-393091
+39-3092,Costume Attendants,costume-attendants-393092
+39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",locker-room-coatroom-and-dressing-room-attendants-393093
+39-3099,"Entertainment Attendants and Related Workers, All Other",entertainment-attendants-and-related-workers-all-other-393099
+39-4011,Embalmers,embalmers-394011
+39-4012,Crematory Operators,crematory-operators-394012
+39-4021,Funeral Attendants,funeral-attendants-394021
+39-4031,"Morticians, Undertakers, and Funeral Arrangers",morticians-undertakers-and-funeral-arrangers-394031
+39-5011,Barbers,barbers-395011
+39-5012,"Hairdressers, Hairstylists, and Cosmetologists",hairdressers-hairstylists-and-cosmetologists-395012
+39-5091,"Makeup Artists, Theatrical and Performance",makeup-artists-theatrical-and-performance-395091
+39-5092,Manicurists and Pedicurists,manicurists-and-pedicurists-395092
+39-5093,Shampooers,shampooers-395093
+39-5094,Skincare Specialists,skincare-specialists-395094
+39-6011,Baggage Porters and Bellhops,baggage-porters-and-bellhops-396011
+39-6012,Concierges,concierges-396012
+39-7011,Tour Guides and Escorts,tour-guides-and-escorts-397011
+39-7012,Travel Guides,travel-guides-397012
+39-9011,Childcare Workers,childcare-workers-399011
+39-9031,Exercise Trainers and Group Fitness Instructors,exercise-trainers-and-group-fitness-instructors-399031
+39-9032,Recreation Workers,recreation-workers-399032
+39-9041,Residential Advisors,residential-advisors-399041
+39-9099,"Personal Care and Service Workers, All Other",personal-care-and-service-workers-all-other-399099
+41-1011,First-Line Supervisors of Retail Sales Workers,first-line-supervisors-of-retail-sales-workers-411011
+41-1012,First-Line Supervisors of Non-Retail Sales Workers,first-line-supervisors-of-non-retail-sales-workers-411012
+41-2011,Cashiers,cashiers-412011
+41-2012,Gambling Change Persons and Booth Cashiers,gambling-change-persons-and-booth-cashiers-412012
+41-2021,Counter and Rental Clerks,counter-and-rental-clerks-412021
+41-2022,Parts Salespersons,parts-salespersons-412022
+41-2031,Retail Salespersons,retail-salespersons-412031
+41-3011,Advertising Sales Agents,advertising-sales-agents-413011
+41-3021,Insurance Sales Agents,insurance-sales-agents-413021
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",securities-commodities-and-financial-services-sales-agents-413031
+41-3041,Travel Agents,travel-agents-413041
+41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",sales-representatives-of-services-except-advertising-insurance-financial-services-and-travel-413091
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",sales-representatives-wholesale-and-manufacturing-technical-and-scientific-products-414011
+41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",sales-representatives-wholesale-and-manufacturing-except-technical-and-scientific-products-414012
+41-9011,Demonstrators and Product Promoters,demonstrators-and-product-promoters-419011
+41-9012,Models,models-419012
+41-9021,Real Estate Brokers,real-estate-brokers-419021
+41-9022,Real Estate Sales Agents,real-estate-sales-agents-419022
+41-9031,Sales Engineers,sales-engineers-419031
+41-9041,Telemarketers,telemarketers-419041
+41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",door-to-door-sales-workers-news-and-street-vendors-and-related-workers-419091
+41-9099,"Sales and Related Workers, All Other",sales-and-related-workers-all-other-419099
+43-1011,First-Line Supervisors of Office and Administrative Support Workers,first-line-supervisors-of-office-and-administrative-support-workers-431011
+43-2011,"Switchboard Operators, Including Answering Service",switchboard-operators-including-answering-service-432011
+43-2021,Telephone Operators,telephone-operators-432021
+43-2099,"Communications Equipment Operators, All Other",communications-equipment-operators-all-other-432099
+43-3011,Bill and Account Collectors,bill-and-account-collectors-433011
+43-3021,Billing and Posting Clerks,billing-and-posting-clerks-433021
+43-3031,"Bookkeeping, Accounting, and Auditing Clerks",bookkeeping-accounting-and-auditing-clerks-433031
+43-3041,Gambling Cage Workers,gambling-cage-workers-433041
+43-3051,Payroll and Timekeeping Clerks,payroll-and-timekeeping-clerks-433051
+43-3061,Procurement Clerks,procurement-clerks-433061
+43-3071,Tellers,tellers-433071
+43-3099,"Financial Clerks, All Other",financial-clerks-all-other-433099
+43-4011,Brokerage Clerks,brokerage-clerks-434011
+43-4021,Correspondence Clerks,correspondence-clerks-434021
+43-4031,"Court, Municipal, and License Clerks",court-municipal-and-license-clerks-434031
+43-4041,"Credit Authorizers, Checkers, and Clerks",credit-authorizers-checkers-and-clerks-434041
+43-4051,Customer Service Representatives,customer-service-representatives-434051
+43-4061,"Eligibility Interviewers, Government Programs",eligibility-interviewers-government-programs-434061
+43-4071,File Clerks,file-clerks-434071
+43-4081,"Hotel, Motel, and Resort Desk Clerks",hotel-motel-and-resort-desk-clerks-434081
+43-4111,"Interviewers, Except Eligibility and Loan",interviewers-except-eligibility-and-loan-434111
+43-4121,"Library Assistants, Clerical",library-assistants-clerical-434121
+43-4131,Loan Interviewers and Clerks,loan-interviewers-and-clerks-434131
+43-4141,New Accounts Clerks,new-accounts-clerks-434141
+43-4151,Order Clerks,order-clerks-434151
+43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",human-resources-assistants-except-payroll-and-timekeeping-434161
+43-4171,Receptionists and Information Clerks,receptionists-and-information-clerks-434171
+43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,reservation-and-transportation-ticket-agents-and-travel-clerks-434181
+43-4199,"Information and Record Clerks, All Other",information-and-record-clerks-all-other-434199
+43-5011,Cargo and Freight Agents,cargo-and-freight-agents-435011
+43-5021,Couriers and Messengers,couriers-and-messengers-435021
+43-5031,Public Safety Telecommunicators,public-safety-telecommunicators-435031
+43-5032,"Dispatchers, Except Police, Fire, and Ambulance",dispatchers-except-police-fire-and-ambulance-435032
+43-5041,"Meter Readers, Utilities",meter-readers-utilities-435041
+43-5051,Postal Service Clerks,postal-service-clerks-435051
+43-5052,Postal Service Mail Carriers,postal-service-mail-carriers-435052
+43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",postal-service-mail-sorters-processors-and-processing-machine-operators-435053
+43-5061,"Production, Planning, and Expediting Clerks",production-planning-and-expediting-clerks-435061
+43-5071,"Shipping, Receiving, and Inventory Clerks",shipping-receiving-and-inventory-clerks-435071
+43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",weighers-measurers-checkers-and-samplers-recordkeeping-435111
+43-6011,Executive Secretaries and Executive Administrative Assistants,executive-secretaries-and-executive-administrative-assistants-436011
+43-6012,Legal Secretaries and Administrative Assistants,legal-secretaries-and-administrative-assistants-436012
+43-6013,Medical Secretaries and Administrative Assistants,medical-secretaries-and-administrative-assistants-436013
+43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",secretaries-and-administrative-assistants-except-legal-medical-and-executive-436014
+43-9021,Data Entry Keyers,data-entry-keyers-439021
+43-9022,Word Processors and Typists,word-processors-and-typists-439022
+43-9031,Desktop Publishers,desktop-publishers-439031
+43-9041,Insurance Claims and Policy Processing Clerks,insurance-claims-and-policy-processing-clerks-439041
+43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",mail-clerks-and-mail-machine-operators-except-postal-service-439051
+43-9061,"Office Clerks, General",office-clerks-general-439061
+43-9071,"Office Machine Operators, Except Computer",office-machine-operators-except-computer-439071
+43-9081,Proofreaders and Copy Markers,proofreaders-and-copy-markers-439081
+43-9111,Statistical Assistants,statistical-assistants-439111
+43-9199,"Office and Administrative Support Workers, All Other",office-and-administrative-support-workers-all-other-439199
+45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",first-line-supervisors-of-farming-fishing-and-forestry-workers-451011
+45-2011,Agricultural Inspectors,agricultural-inspectors-452011
+45-2021,Animal Breeders,animal-breeders-452021
+45-2041,"Graders and Sorters, Agricultural Products",graders-and-sorters-agricultural-products-452041
+45-2091,Agricultural Equipment Operators,agricultural-equipment-operators-452091
+45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",farmworkers-and-laborers-crop-nursery-and-greenhouse-452092
+45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",farmworkers-farm-ranch-and-aquacultural-animals-452093
+45-2099,"Agricultural Workers, All Other",agricultural-workers-all-other-452099
+45-3031,Fishing and Hunting Workers,fishing-and-hunting-workers-453031
+45-4011,Forest and Conservation Workers,forest-and-conservation-workers-454011
+45-4021,Fallers,fallers-454021
+45-4022,Logging Equipment Operators,logging-equipment-operators-454022
+45-4023,Log Graders and Scalers,log-graders-and-scalers-454023
+45-4029,"Logging Workers, All Other",logging-workers-all-other-454029
+47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,first-line-supervisors-of-construction-trades-and-extraction-workers-471011
+47-2011,Boilermakers,boilermakers-472011
+47-2021,Brickmasons and Blockmasons,brickmasons-and-blockmasons-472021
+47-2022,Stonemasons,stonemasons-472022
+47-2031,Carpenters,carpenters-472031
+47-2041,Carpet Installers,carpet-installers-472041
+47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",floor-layers-except-carpet-wood-and-hard-tiles-472042
+47-2043,Floor Sanders and Finishers,floor-sanders-and-finishers-472043
+47-2044,Tile and Stone Setters,tile-and-stone-setters-472044
+47-2051,Cement Masons and Concrete Finishers,cement-masons-and-concrete-finishers-472051
+47-2053,Terrazzo Workers and Finishers,terrazzo-workers-and-finishers-472053
+47-2061,Construction Laborers,construction-laborers-472061
+47-2071,"Paving, Surfacing, and Tamping Equipment Operators",paving-surfacing-and-tamping-equipment-operators-472071
+47-2072,Pile Driver Operators,pile-driver-operators-472072
+47-2073,Operating Engineers and Other Construction Equipment Operators,operating-engineers-and-other-construction-equipment-operators-472073
+47-2081,Drywall and Ceiling Tile Installers,drywall-and-ceiling-tile-installers-472081
+47-2082,Tapers,tapers-472082
+47-2111,Electricians,electricians-472111
+47-2121,Glaziers,glaziers-472121
+47-2131,"Insulation Workers, Floor, Ceiling, and Wall",insulation-workers-floor-ceiling-and-wall-472131
+47-2132,"Insulation Workers, Mechanical",insulation-workers-mechanical-472132
+47-2141,"Painters, Construction and Maintenance",painters-construction-and-maintenance-472141
+47-2142,Paperhangers,paperhangers-472142
+47-2151,Pipelayers,pipelayers-472151
+47-2152,"Plumbers, Pipefitters, and Steamfitters",plumbers-pipefitters-and-steamfitters-472152
+47-2161,Plasterers and Stucco Masons,plasterers-and-stucco-masons-472161
+47-2171,Reinforcing Iron and Rebar Workers,reinforcing-iron-and-rebar-workers-472171
+47-2181,Roofers,roofers-472181
+47-2211,Sheet Metal Workers,sheet-metal-workers-472211
+47-2221,Structural Iron and Steel Workers,structural-iron-and-steel-workers-472221
+47-2231,Solar Photovoltaic Installers,solar-photovoltaic-installers-472231
+47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",helpers--brickmasons-blockmasons-stonemasons-and-tile-and-marble-setters-473011
+47-3012,Helpers--Carpenters,helpers--carpenters-473012
+47-3013,Helpers--Electricians,helpers--electricians-473013
+47-3014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",helpers--painters-paperhangers-plasterers-and-stucco-masons-473014
+47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",helpers--pipelayers-plumbers-pipefitters-and-steamfitters-473015
+47-3016,Helpers--Roofers,helpers--roofers-473016
+47-3019,"Helpers, Construction Trades, All Other",helpers-construction-trades-all-other-473019
+47-4011,Construction and Building Inspectors,construction-and-building-inspectors-474011
+47-4021,Elevator and Escalator Installers and Repairers,elevator-and-escalator-installers-and-repairers-474021
+47-4031,Fence Erectors,fence-erectors-474031
+47-4041,Hazardous Materials Removal Workers,hazardous-materials-removal-workers-474041
+47-4051,Highway Maintenance Workers,highway-maintenance-workers-474051
+47-4061,Rail-Track Laying and Maintenance Equipment Operators,rail-track-laying-and-maintenance-equipment-operators-474061
+47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,septic-tank-servicers-and-sewer-pipe-cleaners-474071
+47-4091,Segmental Pavers,segmental-pavers-474091
+47-4099,"Construction and Related Workers, All Other",construction-and-related-workers-all-other-474099
+47-5011,"Derrick Operators, Oil and Gas",derrick-operators-oil-and-gas-475011
+47-5012,"Rotary Drill Operators, Oil and Gas",rotary-drill-operators-oil-and-gas-475012
+47-5013,"Service Unit Operators, Oil and Gas",service-unit-operators-oil-and-gas-475013
+47-5022,"Excavating and Loading Machine and Dragline Operators, Surface Mining",excavating-and-loading-machine-and-dragline-operators-surface-mining-475022
+47-5023,"Earth Drillers, Except Oil and Gas",earth-drillers-except-oil-and-gas-475023
+47-5032,"Explosives Workers, Ordnance Handling Experts, and Blasters",explosives-workers-ordnance-handling-experts-and-blasters-475032
+47-5041,Continuous Mining Machine Operators,continuous-mining-machine-operators-475041
+47-5043,"Roof Bolters, Mining",roof-bolters-mining-475043
+47-5044,"Loading and Moving Machine Operators, Underground Mining",loading-and-moving-machine-operators-underground-mining-475044
+47-5049,"Underground Mining Machine Operators, All Other",underground-mining-machine-operators-all-other-475049
+47-5051,"Rock Splitters, Quarry",rock-splitters-quarry-475051
+47-5071,"Roustabouts, Oil and Gas",roustabouts-oil-and-gas-475071
+47-5081,Helpers--Extraction Workers,helpers--extraction-workers-475081
+47-5099,"Extraction Workers, All Other",extraction-workers-all-other-475099
+49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",first-line-supervisors-of-mechanics-installers-and-repairers-491011
+49-2011,"Computer, Automated Teller, and Office Machine Repairers",computer-automated-teller-and-office-machine-repairers-492011
+49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers",radio-cellular-and-tower-equipment-installers-and-repairers-492021
+49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",telecommunications-equipment-installers-and-repairers-except-line-installers-492022
+49-2091,Avionics Technicians,avionics-technicians-492091
+49-2092,"Electric Motor, Power Tool, and Related Repairers",electric-motor-power-tool-and-related-repairers-492092
+49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment",electrical-and-electronics-installers-and-repairers-transportation-equipment-492093
+49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",electrical-and-electronics-repairers-commercial-and-industrial-equipment-492094
+49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",electrical-and-electronics-repairers-powerhouse-substation-and-relay-492095
+49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles",electronic-equipment-installers-and-repairers-motor-vehicles-492096
+49-2097,Audiovisual Equipment Installers and Repairers,audiovisual-equipment-installers-and-repairers-492097
+49-2098,Security and Fire Alarm Systems Installers,security-and-fire-alarm-systems-installers-492098
+49-3011,Aircraft Mechanics and Service Technicians,aircraft-mechanics-and-service-technicians-493011
+49-3021,Automotive Body and Related Repairers,automotive-body-and-related-repairers-493021
+49-3022,Automotive Glass Installers and Repairers,automotive-glass-installers-and-repairers-493022
+49-3023,Automotive Service Technicians and Mechanics,automotive-service-technicians-and-mechanics-493023
+49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,bus-and-truck-mechanics-and-diesel-engine-specialists-493031
+49-3041,Farm Equipment Mechanics and Service Technicians,farm-equipment-mechanics-and-service-technicians-493041
+49-3042,"Mobile Heavy Equipment Mechanics, Except Engines",mobile-heavy-equipment-mechanics-except-engines-493042
+49-3043,Rail Car Repairers,rail-car-repairers-493043
+49-3051,Motorboat Mechanics and Service Technicians,motorboat-mechanics-and-service-technicians-493051
+49-3052,Motorcycle Mechanics,motorcycle-mechanics-493052
+49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,outdoor-power-equipment-and-other-small-engine-mechanics-493053
+49-3091,Bicycle Repairers,bicycle-repairers-493091
+49-3092,Recreational Vehicle Service Technicians,recreational-vehicle-service-technicians-493092
+49-3093,Tire Repairers and Changers,tire-repairers-and-changers-493093
+49-9011,Mechanical Door Repairers,mechanical-door-repairers-499011
+49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door",control-and-valve-installers-and-repairers-except-mechanical-door-499012
+49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",heating-air-conditioning-and-refrigeration-mechanics-and-installers-499021
+49-9031,Home Appliance Repairers,home-appliance-repairers-499031
+49-9041,Industrial Machinery Mechanics,industrial-machinery-mechanics-499041
+49-9043,"Maintenance Workers, Machinery",maintenance-workers-machinery-499043
+49-9044,Millwrights,millwrights-499044
+49-9045,"Refractory Materials Repairers, Except Brickmasons",refractory-materials-repairers-except-brickmasons-499045
+49-9051,Electrical Power-Line Installers and Repairers,electrical-power-line-installers-and-repairers-499051
+49-9052,Telecommunications Line Installers and Repairers,telecommunications-line-installers-and-repairers-499052
+49-9061,Camera and Photographic Equipment Repairers,camera-and-photographic-equipment-repairers-499061
+49-9062,Medical Equipment Repairers,medical-equipment-repairers-499062
+49-9063,Musical Instrument Repairers and Tuners,musical-instrument-repairers-and-tuners-499063
+49-9064,Watch and Clock Repairers,watch-and-clock-repairers-499064
+49-9069,"Precision Instrument and Equipment Repairers, All Other",precision-instrument-and-equipment-repairers-all-other-499069
+49-9071,"Maintenance and Repair Workers, General",maintenance-and-repair-workers-general-499071
+49-9081,Wind Turbine Service Technicians,wind-turbine-service-technicians-499081
+49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers",coin-vending-and-amusement-machine-servicers-and-repairers-499091
+49-9092,Commercial Divers,commercial-divers-499092
+49-9094,Locksmiths and Safe Repairers,locksmiths-and-safe-repairers-499094
+49-9095,Manufactured Building and Mobile Home Installers,manufactured-building-and-mobile-home-installers-499095
+49-9096,Riggers,riggers-499096
+49-9097,Signal and Track Switch Repairers,signal-and-track-switch-repairers-499097
+49-9098,"Helpers--Installation, Maintenance, and Repair Workers",helpers--installation-maintenance-and-repair-workers-499098
+49-9099,"Installation, Maintenance, and Repair Workers, All Other",installation-maintenance-and-repair-workers-all-other-499099
+51-1011,First-Line Supervisors of Production and Operating Workers,first-line-supervisors-of-production-and-operating-workers-511011
+51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",aircraft-structure-surfaces-rigging-and-systems-assemblers-512011
+51-2021,"Coil Winders, Tapers, and Finishers",coil-winders-tapers-and-finishers-512021
+51-2022,Electrical and Electronic Equipment Assemblers,electrical-and-electronic-equipment-assemblers-512022
+51-2023,Electromechanical Equipment Assemblers,electromechanical-equipment-assemblers-512023
+51-2031,Engine and Other Machine Assemblers,engine-and-other-machine-assemblers-512031
+51-2041,Structural Metal Fabricators and Fitters,structural-metal-fabricators-and-fitters-512041
+51-2051,Fiberglass Laminators and Fabricators,fiberglass-laminators-and-fabricators-512051
+51-2061,Timing Device Assemblers and Adjusters,timing-device-assemblers-and-adjusters-512061
+51-2092,Team Assemblers,team-assemblers-512092
+51-2099,"Assemblers and Fabricators, All Other",assemblers-and-fabricators-all-other-512099
+51-3011,Bakers,bakers-513011
+51-3021,Butchers and Meat Cutters,butchers-and-meat-cutters-513021
+51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",meat-poultry-and-fish-cutters-and-trimmers-513022
+51-3023,Slaughterers and Meat Packers,slaughterers-and-meat-packers-513023
+51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",food-and-tobacco-roasting-baking-and-drying-machine-operators-and-tenders-513091
+51-3092,Food Batchmakers,food-batchmakers-513092
+51-3093,Food Cooking Machine Operators and Tenders,food-cooking-machine-operators-and-tenders-513093
+51-3099,"Food Processing Workers, All Other",food-processing-workers-all-other-513099
+51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",extruding-and-drawing-machine-setters-operators-and-tenders-metal-and-plastic-514021
+51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",forging-machine-setters-operators-and-tenders-metal-and-plastic-514022
+51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",rolling-machine-setters-operators-and-tenders-metal-and-plastic-514023
+51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",cutting-punching-and-press-machine-setters-operators-and-tenders-metal-and-plastic-514031
+51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",drilling-and-boring-machine-tool-setters-operators-and-tenders-metal-and-plastic-514032
+51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",grinding-lapping-polishing-and-buffing-machine-tool-setters-operators-and-tenders-metal-and-plastic-514033
+51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",lathe-and-turning-machine-tool-setters-operators-and-tenders-metal-and-plastic-514034
+51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",milling-and-planing-machine-setters-operators-and-tenders-metal-and-plastic-514035
+51-4041,Machinists,machinists-514041
+51-4051,Metal-Refining Furnace Operators and Tenders,metal-refining-furnace-operators-and-tenders-514051
+51-4052,"Pourers and Casters, Metal",pourers-and-casters-metal-514052
+51-4061,"Model Makers, Metal and Plastic",model-makers-metal-and-plastic-514061
+51-4062,"Patternmakers, Metal and Plastic",patternmakers-metal-and-plastic-514062
+51-4071,Foundry Mold and Coremakers,foundry-mold-and-coremakers-514071
+51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",molding-coremaking-and-casting-machine-setters-operators-and-tenders-metal-and-plastic-514072
+51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",multiple-machine-tool-setters-operators-and-tenders-metal-and-plastic-514081
+51-4111,Tool and Die Makers,tool-and-die-makers-514111
+51-4121,"Welders, Cutters, Solderers, and Brazers",welders-cutters-solderers-and-brazers-514121
+51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",welding-soldering-and-brazing-machine-setters-operators-and-tenders-514122
+51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",heat-treating-equipment-setters-operators-and-tenders-metal-and-plastic-514191
+51-4192,"Layout Workers, Metal and Plastic",layout-workers-metal-and-plastic-514192
+51-4193,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",plating-machine-setters-operators-and-tenders-metal-and-plastic-514193
+51-4194,"Tool Grinders, Filers, and Sharpeners",tool-grinders-filers-and-sharpeners-514194
+51-4199,"Metal Workers and Plastic Workers, All Other",metal-workers-and-plastic-workers-all-other-514199
+51-5111,Prepress Technicians and Workers,prepress-technicians-and-workers-515111
+51-5112,Printing Press Operators,printing-press-operators-515112
+51-5113,Print Binding and Finishing Workers,print-binding-and-finishing-workers-515113
+51-6011,Laundry and Dry-Cleaning Workers,laundry-and-dry-cleaning-workers-516011
+51-6021,"Pressers, Textile, Garment, and Related Materials",pressers-textile-garment-and-related-materials-516021
+51-6031,Sewing Machine Operators,sewing-machine-operators-516031
+51-6041,Shoe and Leather Workers and Repairers,shoe-and-leather-workers-and-repairers-516041
+51-6042,Shoe Machine Operators and Tenders,shoe-machine-operators-and-tenders-516042
+51-6051,"Sewers, Hand",sewers-hand-516051
+51-6052,"Tailors, Dressmakers, and Custom Sewers",tailors-dressmakers-and-custom-sewers-516052
+51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders,textile-bleaching-and-dyeing-machine-operators-and-tenders-516061
+51-6062,"Textile Cutting Machine Setters, Operators, and Tenders",textile-cutting-machine-setters-operators-and-tenders-516062
+51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",textile-knitting-and-weaving-machine-setters-operators-and-tenders-516063
+51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",textile-winding-twisting-and-drawing-out-machine-setters-operators-and-tenders-516064
+51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",extruding-and-forming-machine-setters-operators-and-tenders-synthetic-and-glass-fibers-516091
+51-6092,Fabric and Apparel Patternmakers,fabric-and-apparel-patternmakers-516092
+51-6093,Upholsterers,upholsterers-516093
+51-6099,"Textile, Apparel, and Furnishings Workers, All Other",textile-apparel-and-furnishings-workers-all-other-516099
+51-7011,Cabinetmakers and Bench Carpenters,cabinetmakers-and-bench-carpenters-517011
+51-7021,Furniture Finishers,furniture-finishers-517021
+51-7031,"Model Makers, Wood",model-makers-wood-517031
+51-7032,"Patternmakers, Wood",patternmakers-wood-517032
+51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood",sawing-machine-setters-operators-and-tenders-wood-517041
+51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",woodworking-machine-setters-operators-and-tenders-except-sawing-517042
+51-7099,"Woodworkers, All Other",woodworkers-all-other-517099
+51-8011,Nuclear Power Reactor Operators,nuclear-power-reactor-operators-518011
+51-8012,Power Distributors and Dispatchers,power-distributors-and-dispatchers-518012
+51-8013,Hydroelectric Plant Technicians,hydroelectric-plant-technicians-518013
+51-8021,Stationary Engineers and Boiler Operators,stationary-engineers-and-boiler-operators-518021
+51-8031,Water and Wastewater Treatment Plant and System Operators,water-and-wastewater-treatment-plant-and-system-operators-518031
+51-8091,Chemical Plant and System Operators,chemical-plant-and-system-operators-518091
+51-8092,Gas Plant Operators,gas-plant-operators-518092
+51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",petroleum-pump-system-operators-refinery-operators-and-gaugers-518093
+51-8099,"Plant and System Operators, All Other",plant-and-system-operators-all-other-518099
+51-9011,Chemical Equipment Operators and Tenders,chemical-equipment-operators-and-tenders-519011
+51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",separating-filtering-clarifying-precipitating-and-still-machine-setters-operators-and-tenders-519012
+51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",crushing-grinding-and-polishing-machine-setters-operators-and-tenders-519021
+51-9022,"Grinding and Polishing Workers, Hand",grinding-and-polishing-workers-hand-519022
+51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders",mixing-and-blending-machine-setters-operators-and-tenders-519023
+51-9031,"Cutters and Trimmers, Hand",cutters-and-trimmers-hand-519031
+51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",cutting-and-slicing-machine-setters-operators-and-tenders-519032
+51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",extruding-forming-pressing-and-compacting-machine-setters-operators-and-tenders-519041
+51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",furnace-kiln-oven-drier-and-kettle-operators-and-tenders-519051
+51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",inspectors-testers-sorters-samplers-and-weighers-519061
+51-9071,Jewelers and Precious Stone and Metal Workers,jewelers-and-precious-stone-and-metal-workers-519071
+51-9081,Dental Laboratory Technicians,dental-laboratory-technicians-519081
+51-9082,Medical Appliance Technicians,medical-appliance-technicians-519082
+51-9083,Ophthalmic Laboratory Technicians,ophthalmic-laboratory-technicians-519083
+51-9111,Packaging and Filling Machine Operators and Tenders,packaging-and-filling-machine-operators-and-tenders-519111
+51-9123,"Painting, Coating, and Decorating Workers",painting-coating-and-decorating-workers-519123
+51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",coating-painting-and-spraying-machine-setters-operators-and-tenders-519124
+51-9141,Semiconductor Processing Technicians,semiconductor-processing-technicians-519141
+51-9151,Photographic Process Workers and Processing Machine Operators,photographic-process-workers-and-processing-machine-operators-519151
+51-9161,Computer Numerically Controlled Tool Operators,computer-numerically-controlled-tool-operators-519161
+51-9162,Computer Numerically Controlled Tool Programmers,computer-numerically-controlled-tool-programmers-519162
+51-9191,Adhesive Bonding Machine Operators and Tenders,adhesive-bonding-machine-operators-and-tenders-519191
+51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",cleaning-washing-and-metal-pickling-equipment-operators-and-tenders-519192
+51-9193,Cooling and Freezing Equipment Operators and Tenders,cooling-and-freezing-equipment-operators-and-tenders-519193
+51-9194,Etchers and Engravers,etchers-and-engravers-519194
+51-9195,"Potters, Manufacturing",potters-manufacturing-519195
+51-9196,"Paper Goods Machine Setters, Operators, and Tenders",paper-goods-machine-setters-operators-and-tenders-519196
+51-9197,Tire Builders,tire-builders-519197
+51-9198,Helpers--Production Workers,helpers--production-workers-519198
+51-9199,"Production Workers, All Other",production-workers-all-other-519199
+53-1041,Aircraft Cargo Handling Supervisors,aircraft-cargo-handling-supervisors-531041
+53-1042,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",first-line-supervisors-of-helpers-laborers-and-material-movers-hand-531042
+53-1043,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,first-line-supervisors-of-material-moving-machine-and-vehicle-operators-531043
+53-1044,First-Line Supervisors of Passenger Attendants,first-line-supervisors-of-passenger-attendants-531044
+53-1049,"First-Line Supervisors of Transportation Workers, All Other",first-line-supervisors-of-transportation-workers-all-other-531049
+53-2011,"Airline Pilots, Copilots, and Flight Engineers",airline-pilots-copilots-and-flight-engineers-532011
+53-2012,Commercial Pilots,commercial-pilots-532012
+53-2021,Air Traffic Controllers,air-traffic-controllers-532021
+53-2022,Airfield Operations Specialists,airfield-operations-specialists-532022
+53-2031,Flight Attendants,flight-attendants-532031
+53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",ambulance-drivers-and-attendants-except-emergency-medical-technicians-533011
+53-3031,Driver-Sales Workers,driver-sales-workers-533031
+53-3032,Heavy and Tractor-Trailer Truck Drivers,heavy-and-tractor-trailer-truck-drivers-533032
+53-3033,Light Truck Drivers,light-truck-drivers-533033
+53-3051,"Bus Drivers, School",bus-drivers-school-533051
+53-3052,"Bus Drivers, Transit and Intercity",bus-drivers-transit-and-intercity-533052
+53-3053,Shuttle Drivers and Chauffeurs,shuttle-drivers-and-chauffeurs-533053
+53-3054,Taxi Drivers,taxi-drivers-533054
+53-3099,"Motor Vehicle Operators, All Other",motor-vehicle-operators-all-other-533099
+53-4011,Locomotive Engineers,locomotive-engineers-534011
+53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers",rail-yard-engineers-dinkey-operators-and-hostlers-534013
+53-4022,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",railroad-brake-signal-and-switch-operators-and-locomotive-firers-534022
+53-4031,Railroad Conductors and Yardmasters,railroad-conductors-and-yardmasters-534031
+53-4041,Subway and Streetcar Operators,subway-and-streetcar-operators-534041
+53-4099,"Rail Transportation Workers, All Other",rail-transportation-workers-all-other-534099
+53-5011,Sailors and Marine Oilers,sailors-and-marine-oilers-535011
+53-5021,"Captains, Mates, and Pilots of Water Vessels",captains-mates-and-pilots-of-water-vessels-535021
+53-5022,Motorboat Operators,motorboat-operators-535022
+53-5031,Ship Engineers,ship-engineers-535031
+53-6011,Bridge and Lock Tenders,bridge-and-lock-tenders-536011
+53-6021,Parking Attendants,parking-attendants-536021
+53-6031,Automotive and Watercraft Service Attendants,automotive-and-watercraft-service-attendants-536031
+53-6032,Aircraft Service Attendants,aircraft-service-attendants-536032
+53-6041,Traffic Technicians,traffic-technicians-536041
+53-6051,Transportation Inspectors,transportation-inspectors-536051
+53-6061,Passenger Attendants,passenger-attendants-536061
+53-6099,"Transportation Workers, All Other",transportation-workers-all-other-536099
+53-7011,Conveyor Operators and Tenders,conveyor-operators-and-tenders-537011
+53-7021,Crane and Tower Operators,crane-and-tower-operators-537021
+53-7031,Dredge Operators,dredge-operators-537031
+53-7041,Hoist and Winch Operators,hoist-and-winch-operators-537041
+53-7051,Industrial Truck and Tractor Operators,industrial-truck-and-tractor-operators-537051
+53-7061,Cleaners of Vehicles and Equipment,cleaners-of-vehicles-and-equipment-537061
+53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",laborers-and-freight-stock-and-material-movers-hand-537062
+53-7063,Machine Feeders and Offbearers,machine-feeders-and-offbearers-537063
+53-7064,"Packers and Packagers, Hand",packers-and-packagers-hand-537064
+53-7065,Stockers and Order Fillers,stockers-and-order-fillers-537065
+53-7071,Gas Compressor and Gas Pumping Station Operators,gas-compressor-and-gas-pumping-station-operators-537071
+53-7072,"Pump Operators, Except Wellhead Pumpers",pump-operators-except-wellhead-pumpers-537072
+53-7073,Wellhead Pumpers,wellhead-pumpers-537073
+53-7081,Refuse and Recyclable Material Collectors,refuse-and-recyclable-material-collectors-537081
+53-7121,"Tank Car, Truck, and Ship Loaders",tank-car-truck-and-ship-loaders-537121
+53-7199,"Material Moving Workers, All Other",material-moving-workers-all-other-537199

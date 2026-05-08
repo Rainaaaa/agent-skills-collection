@@ -1,0 +1,96 @@
+SOC Minor Occupation,Title,soc_lvl_1
+11-1000,Chief Executives,chief-executives-111000
+11-2000,Advertising and Promotions Managers,advertising-and-promotions-managers-112000
+11-3000,Administrative Services Managers,administrative-services-managers-113000
+11-9000,"Farmers, Ranchers, and Other Agricultural Managers",farmers-ranchers-and-other-agricultural-managers-119000
+13-1000,"Agents and Business Managers of Artists, Performers, and Athletes",agents-and-business-managers-of-artists-performers-and-athletes-131000
+13-2000,Accountants and Auditors,accountants-and-auditors-132000
+15-1000,Computer Systems Analysts,computer-systems-analysts-151000
+15-2000,Actuaries,actuaries-152000
+17-1000,"Architects, Except Landscape and Naval",architects-except-landscape-and-naval-171000
+17-2000,Aerospace Engineers,aerospace-engineers-172000
+17-3000,Architectural and Civil Drafters,architectural-and-civil-drafters-173000
+19-1000,Animal Scientists,animal-scientists-191000
+19-2000,Astronomers,astronomers-192000
+19-3000,Economists,economists-193000
+19-4000,Precision Agriculture Technicians,precision-agriculture-technicians-194000
+19-5000,Occupational Health and Safety Specialists,occupational-health-and-safety-specialists-195000
+21-1000,"Educational, Guidance, and Career Counselors and Advisors",educational-guidance-and-career-counselors-and-advisors-211000
+21-2000,Clergy,clergy-212000
+23-1000,Lawyers,lawyers-231000
+23-2000,Paralegals and Legal Assistants,paralegals-and-legal-assistants-232000
+25-1000,"Business Teachers, Postsecondary",business-teachers-postsecondary-251000
+25-2000,"Preschool Teachers, Except Special Education",preschool-teachers-except-special-education-252000
+25-3000,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",adult-basic-education-adult-secondary-education-and-english-as-a-second-language-instructors-253000
+25-4000,Archivists,archivists-254000
+25-9000,Farm and Home Management Educators,farm-and-home-management-educators-259000
+27-1000,Art Directors,art-directors-271000
+27-2000,Actors,actors-272000
+27-3000,Broadcast Announcers and Radio Disc Jockeys,broadcast-announcers-and-radio-disc-jockeys-273000
+27-4000,Audio and Video Technicians,audio-and-video-technicians-274000
+29-1000,Chiropractors,chiropractors-291000
+29-2000,Medical and Clinical Laboratory Technologists,medical-and-clinical-laboratory-technologists-292000
+29-9000,Health Information Technologists and Medical Registrars,health-information-technologists-and-medical-registrars-299000
+31-1000,Home Health Aides,home-health-aides-311000
+31-2000,Occupational Therapy Assistants,occupational-therapy-assistants-312000
+31-9000,Massage Therapists,massage-therapists-319000
+33-1000,First-Line Supervisors of Correctional Officers,first-line-supervisors-of-correctional-officers-331000
+33-2000,Firefighters,firefighters-332000
+33-3000,Bailiffs,bailiffs-333000
+33-9000,Animal Control Workers,animal-control-workers-339000
+35-1000,Chefs and Head Cooks,chefs-and-head-cooks-351000
+35-2000,"Cooks, Fast Food",cooks-fast-food-352000
+35-3000,Bartenders,bartenders-353000
+35-9000,Dining Room and Cafeteria Attendants and Bartender Helpers,dining-room-and-cafeteria-attendants-and-bartender-helpers-359000
+37-1000,First-Line Supervisors of Housekeeping and Janitorial Workers,first-line-supervisors-of-housekeeping-and-janitorial-workers-371000
+37-2000,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",janitors-and-cleaners-except-maids-and-housekeeping-cleaners-372000
+37-3000,Landscaping and Groundskeeping Workers,landscaping-and-groundskeeping-workers-373000
+39-1000,First-Line Supervisors of Gambling Services Workers,first-line-supervisors-of-gambling-services-workers-391000
+39-2000,Animal Trainers,animal-trainers-392000
+39-3000,Gambling Dealers,gambling-dealers-393000
+39-4000,Embalmers,embalmers-394000
+39-5000,Barbers,barbers-395000
+39-6000,Baggage Porters and Bellhops,baggage-porters-and-bellhops-396000
+39-7000,Tour Guides and Escorts,tour-guides-and-escorts-397000
+39-9000,Childcare Workers,childcare-workers-399000
+41-1000,First-Line Supervisors of Retail Sales Workers,first-line-supervisors-of-retail-sales-workers-411000
+41-2000,Cashiers,cashiers-412000
+41-3000,Advertising Sales Agents,advertising-sales-agents-413000
+41-4000,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",sales-representatives-wholesale-and-manufacturing-technical-and-scientific-products-414000
+41-9000,Demonstrators and Product Promoters,demonstrators-and-product-promoters-419000
+43-1000,First-Line Supervisors of Office and Administrative Support Workers,first-line-supervisors-of-office-and-administrative-support-workers-431000
+43-2000,"Switchboard Operators, Including Answering Service",switchboard-operators-including-answering-service-432000
+43-3000,Bill and Account Collectors,bill-and-account-collectors-433000
+43-4000,Brokerage Clerks,brokerage-clerks-434000
+43-5000,Cargo and Freight Agents,cargo-and-freight-agents-435000
+43-6000,Executive Secretaries and Executive Administrative Assistants,executive-secretaries-and-executive-administrative-assistants-436000
+43-9000,Data Entry Keyers,data-entry-keyers-439000
+45-1000,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",first-line-supervisors-of-farming-fishing-and-forestry-workers-451000
+45-2000,Agricultural Inspectors,agricultural-inspectors-452000
+45-3000,Fishing and Hunting Workers,fishing-and-hunting-workers-453000
+45-4000,Forest and Conservation Workers,forest-and-conservation-workers-454000
+47-1000,First-Line Supervisors of Construction Trades and Extraction Workers,first-line-supervisors-of-construction-trades-and-extraction-workers-471000
+47-2000,Boilermakers,boilermakers-472000
+47-3000,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",helpers--brickmasons-blockmasons-stonemasons-and-tile-and-marble-setters-473000
+47-4000,Construction and Building Inspectors,construction-and-building-inspectors-474000
+47-5000,"Derrick Operators, Oil and Gas",derrick-operators-oil-and-gas-475000
+49-1000,"First-Line Supervisors of Mechanics, Installers, and Repairers",first-line-supervisors-of-mechanics-installers-and-repairers-491000
+49-2000,"Computer, Automated Teller, and Office Machine Repairers",computer-automated-teller-and-office-machine-repairers-492000
+49-3000,Aircraft Mechanics and Service Technicians,aircraft-mechanics-and-service-technicians-493000
+49-9000,Mechanical Door Repairers,mechanical-door-repairers-499000
+51-1000,First-Line Supervisors of Production and Operating Workers,first-line-supervisors-of-production-and-operating-workers-511000
+51-2000,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",aircraft-structure-surfaces-rigging-and-systems-assemblers-512000
+51-3000,Bakers,bakers-513000
+51-4000,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",extruding-and-drawing-machine-setters-operators-and-tenders-metal-and-plastic-514000
+51-5000,Prepress Technicians and Workers,prepress-technicians-and-workers-515000
+51-6000,Laundry and Dry-Cleaning Workers,laundry-and-dry-cleaning-workers-516000
+51-7000,Cabinetmakers and Bench Carpenters,cabinetmakers-and-bench-carpenters-517000
+51-8000,Nuclear Power Reactor Operators,nuclear-power-reactor-operators-518000
+51-9000,Chemical Equipment Operators and Tenders,chemical-equipment-operators-and-tenders-519000
+53-1000,Aircraft Cargo Handling Supervisors,aircraft-cargo-handling-supervisors-531000
+53-2000,"Airline Pilots, Copilots, and Flight Engineers",airline-pilots-copilots-and-flight-engineers-532000
+53-3000,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",ambulance-drivers-and-attendants-except-emergency-medical-technicians-533000
+53-4000,Locomotive Engineers,locomotive-engineers-534000
+53-5000,Sailors and Marine Oilers,sailors-and-marine-oilers-535000
+53-6000,Bridge and Lock Tenders,bridge-and-lock-tenders-536000
+53-7000,Conveyor Operators and Tenders,conveyor-operators-and-tenders-537000

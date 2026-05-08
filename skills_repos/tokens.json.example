@@ -1,0 +1,18 @@
+{
+  "active_account": "account_1",
+  "accounts": {
+    "account_1": {
+      "github_pat": "ghp_REPLACE_ME",
+      "note": "primary PAT (5000 req/hour authenticated)"
+    },
+    "account_2": {
+      "github_pat": "ghp_REPLACE_ME",
+      "note": "secondary PAT — rotated when account_1 hits its window cap"
+    }
+  },
+  "_help": {
+    "scopes": "Tokens only need 'public_repo' scope (or no scopes at all for public repos).",
+    "rate_limits": "GitHub allows 5000 req/hour per authenticated user. Listing 2+ tokens lets fetch_metadata.py keep running past one token's window.",
+    "format": "Either 'github_pat' or 'api_key' is accepted (api_key is for backward-compatibility with the deprecated SkillsMP tokens file)."
+  }
+}
