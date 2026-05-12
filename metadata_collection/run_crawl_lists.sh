@@ -8,8 +8,8 @@
 #SBATCH -A r00954
 #SBATCH --mail-type=END,FAIL
 #SBATCH --mail-user=cz1@iu.edu
-#SBATCH --output=/N/slate/cz1/GitHub/AgentSkills-OSS/metadata_collection/log/%x_%j.log
-#SBATCH --error=/N/slate/cz1/GitHub/AgentSkills-OSS/metadata_collection/log/%x_%j.err
+#SBATCH --output=/N/slate/cz1/GitHub/AgentSkills-OSS/agent-skills-collection/metadata_collection/log/%x_%j.log
+#SBATCH --error=/N/slate/cz1/GitHub/AgentSkills-OSS/agent-skills-collection/metadata_collection/log/%x_%j.err
 
 set -euo pipefail
 
@@ -29,7 +29,7 @@ set -euo pipefail
 # 5) Reset the job pointer (keeps cards.jsonl + dedup so observations accumulate)
 #    sbatch --export=MODE=reset run_crawl_lists.sh
 
-PROJECT_ROOT="/N/slate/cz1/GitHub/AgentSkills-OSS/metadata_collection"
+PROJECT_ROOT="/N/slate/cz1/GitHub/AgentSkills-OSS/agent-skills-collection/metadata_collection"
 
 # Bypass `conda activate` (Lustre-resilient): just point PATH at env bin.
 ENV_PREFIX="/N/slate/cz1/conda/envs/AgentSkillsOSS"

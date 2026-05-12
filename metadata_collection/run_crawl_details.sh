@@ -8,8 +8,8 @@
 #SBATCH -A r00954
 #SBATCH --mail-type=END,FAIL
 #SBATCH --mail-user=cz1@iu.edu
-#SBATCH --output=/N/slate/cz1/GitHub/AgentSkills-OSS/metadata_collection/log/%x_%j.log
-#SBATCH --error=/N/slate/cz1/GitHub/AgentSkills-OSS/metadata_collection/log/%x_%j.err
+#SBATCH --output=/N/slate/cz1/GitHub/AgentSkills-OSS/agent-skills-collection/metadata_collection/log/%x_%j.log
+#SBATCH --error=/N/slate/cz1/GitHub/AgentSkills-OSS/agent-skills-collection/metadata_collection/log/%x_%j.err
 
 set -euo pipefail
 
@@ -19,7 +19,7 @@ set -euo pipefail
 #   sbatch --export=MODE=reset run_crawl_details.sh               # reset L2 checkpoint
 #   sbatch --export=MAX_JOBS=20 run_crawl_details.sh              # smoke test
 
-PROJECT_ROOT="/N/slate/cz1/GitHub/AgentSkills-OSS/metadata_collection"
+PROJECT_ROOT="/N/slate/cz1/GitHub/AgentSkills-OSS/agent-skills-collection/metadata_collection"
 
 # Bypass `conda activate` (Lustre-resilient): just point PATH at env bin.
 ENV_PREFIX="/N/slate/cz1/conda/envs/AgentSkillsOSS"
