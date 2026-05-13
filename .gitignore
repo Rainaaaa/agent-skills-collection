@@ -1,5 +1,6 @@
 # Crawled artifacts — large + reproducible from the scripts. Keep local, never commit.
 **/output/
+**/output_probe/
 **/log/
 **/logs/
 **/checkpoints/
