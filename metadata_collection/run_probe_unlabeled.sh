@@ -37,9 +37,22 @@ export PATH="${ENV_PREFIX}/bin:${PATH}"
 PYTHON_BIN="${ENV_PREFIX}/bin/python"
 CRAWLER_SCRIPT="${PROJECT_ROOT}/crawl_details.py"
 JOBS_CONFIG="${PROJECT_ROOT}/crawler_jobs.json"
-RUNTIME_CONFIG="${PROJECT_ROOT}/runtime_config.json"
+# IMPORTANT: the main runtime_config.json hardcodes
+# level1.dedup_file=./output/level1_dedup.json, which overrides --output_dir
+# in crawl_details.py:normalize_paths(). Use the probe-specific config
+# (no level1/level2 path keys) so paths default off OUTPUT_DIR below.
+RUNTIME_CONFIG="${PROJECT_ROOT}/runtime_config_probe.json"
 INPUT_DIR="${PROJECT_ROOT}/input"
 OUTPUT_DIR="${PROJECT_ROOT}/output_probe"   # ← isolated from main L2 outputs
+
+# Sanity-check: the synthetic level1_dedup.json (built from
+# unlabeled_skill_ids.txt) must already exist at OUTPUT_DIR/level1_dedup.json.
+SYNTH_DEDUP="${OUTPUT_DIR}/level1_dedup.json"
+if [ ! -s "${SYNTH_DEDUP}" ]; then
+  echo "[ERROR] missing synthetic dedup file: ${SYNTH_DEDUP}" >&2
+  echo "        Build it from unlabeled_skill_ids.txt before submitting." >&2
+  exit 2
+fi
 
 MODE="${MODE:-resume}"
 WORKERS="${WORKERS:-8}"
